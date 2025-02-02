@@ -1,0 +1,81 @@
+Movie,Director,Runtime,Release,User-1,User-2,User-3,User-4,User-5,User-6,User-7,User-8,User-9,User-10,User-11,User-12,User-13,User-14,User-15,User-16,User-17,User-18,User-19,User-20
+Black Panther: Wakanda Forever,Ryan Coogler,161 min,2022,5,10,6,5,5,7,4,10,3,6,9,7,9,7,5,7,4,10,8,3
+Avatar: The Way of Water,James Cameron,162 min,2022,10,6,9,6,4,4,9,7,4,6,9,6,10,7,5,5,7,10,3,8
+Everything Everywhere All at Once,Dan Kwan,163 min,2022,7,5,4,7,5,10,8,6,10,10,4,5,5,4,8,3,4,8,7,7
+Puss in Boots: The Last Wish,Joel Crawford,164 min,2022,6,10,3,3,3,9,3,9,5,10,6,4,4,4,6,8,6,7,6,5
+Ant-Man and the Wasp: Quantumania,Peyton Reed,165 min,2023,7,3,6,8,4,3,5,6,4,9,10,7,4,10,9,3,9,7,6,4
+True Spirit,Sarah Spillane,166 min,2023,9,6,3,4,6,6,9,4,10,5,5,8,8,10,6,3,3,10,6,4
+Pathaan,Siddharth Anand,167 min,2023,6,3,5,9,10,9,4,10,8,5,4,6,5,3,5,4,6,6,9,3
+"Lyle, Lyle, Crocodile",Josh Gordon,168 min,2022,8,3,7,5,6,8,8,5,3,5,9,4,8,7,3,4,7,3,4,10
+Black Panther,Ryan Coogler,169 min,2018,6,4,10,10,6,4,7,4,3,6,5,8,9,8,5,9,5,7,8,6
+Avatar,James Cameron,170 min,2009,10,8,4,10,6,4,8,9,5,7,4,10,10,3,9,8,3,9,6,6
+The Super Mario Bros. Movie,Aaron Horvath,171 min,2023,9,6,3,9,8,8,4,6,5,7,10,5,6,5,6,8,7,8,9,5
+The Wandering Earth II,Frant Gwo,172 min,2023,9,4,6,7,8,3,4,5,3,4,6,8,4,6,3,9,4,8,7,7
+Harry Potter and the Sorcerer's Stone,Chris Columbus,173 min,2001,4,6,8,9,3,8,3,7,5,3,7,8,6,7,6,10,7,7,4,9
+Black Adam,Jaume Collet-Serra,174 min,2022,3,8,8,5,8,4,5,3,3,7,8,9,5,3,7,7,6,7,9,9
+Interstellar,Christopher Nolan,175 min,2014,6,5,8,5,3,5,9,7,8,8,5,10,9,8,9,8,10,7,9,8
+Jurassic World: Dominion,Colin Trevorrow,176 min,2022,10,10,4,7,3,7,3,10,5,5,3,3,10,4,7,7,5,4,6,6
+The Hunger Games,Gary Ross,177 min,2012,9,5,4,10,3,4,3,7,4,10,4,9,6,9,8,3,10,8,6,9
+The Northman,Robert Eggers,178 min,2022,5,6,5,4,6,4,8,9,7,8,5,6,10,7,9,8,9,4,9,6
+Dune,Denis Villeneuve,179 min,2021,7,9,5,6,7,8,4,4,5,9,10,9,10,7,9,5,8,3,9,4
+The Flash,Andy Muschietti,180 min,2023,8,4,6,4,4,9,8,9,7,3,3,9,3,8,4,9,7,7,6,4
+RRR,S.S. Rajamouli,181 min,2022,10,3,10,4,8,8,8,6,6,9,5,8,10,5,5,8,5,8,4,6
+The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,182 min,2001,7,3,9,7,8,3,4,6,10,4,4,8,8,8,6,10,9,4,8,6
+Thor: Love and Thunder,Taika Waititi,183 min,2022,10,3,8,8,8,9,9,6,6,9,7,7,3,8,4,3,6,8,10,10
+Dungeons & Dragons: Honor Among Thieves,John Francis Daley,184 min,2023,9,8,4,8,5,7,5,7,6,7,5,10,9,3,3,6,7,10,6,4
+Inception,Christopher Nolan,185 min,2010,6,8,3,3,4,8,7,7,7,7,6,5,7,5,6,7,8,9,8,8
+Spider-Man: No Way Home,Jon Watts,186 min,2021,4,3,8,10,7,4,3,6,8,4,10,8,5,8,5,6,8,7,7,7
+Asterix & Obelix: The Middle Kingdom,Guillaume Canet,187 min,2023,7,9,4,6,5,7,7,6,5,9,10,4,10,5,5,3,6,6,10,7
+Indiana Jones and the Dial of Destiny,James Mangold,188 min,2023,4,8,3,3,7,5,5,5,5,4,3,4,4,3,9,8,9,8,8,3
+Gladiator,Ridley Scott,189 min,2000,4,3,6,3,8,8,8,5,9,9,4,10,8,5,4,10,7,7,6,4
+The Little Mermaid,Rob Marshall,190 min,2023,6,3,3,10,10,8,10,4,7,3,4,6,4,7,10,6,8,10,5,9
+Avengers: Endgame,Anthony Russo,191 min,2019,8,10,8,9,8,8,10,4,4,6,4,10,6,5,10,9,5,7,4,5
+65,Scott Beck,192 min,2023,10,8,9,5,7,6,6,7,3,7,5,5,4,8,10,10,5,6,9,8
+Strange World,Don Hall,193 min,2022,7,8,7,5,10,10,3,7,6,3,6,3,9,8,5,4,5,4,10,10
+Guardians of the Galaxy Vol. 3,James Gunn,194 min,2023,4,4,6,7,10,10,8,9,10,6,4,6,8,4,3,4,3,10,5,10
+Arctic,Joe Penna,195 min,2018,7,5,9,5,4,5,3,7,6,4,8,9,5,7,10,7,4,10,9,3
+Puss in Boots,Chris Miller,196 min,2011,10,4,9,10,9,3,3,6,7,9,10,3,9,9,7,9,8,7,5,8
+Barbie,Greta Gerwig,197 min,2023,3,4,10,4,4,7,10,4,7,8,7,6,9,9,5,6,3,10,6,7
+Raiders of the Lost Ark,Steven Spielberg,198 min,1981,3,6,4,5,6,5,7,10,8,8,4,5,7,8,6,7,10,6,4,8
+Minions: The Rise of Gru,Kyle Balda,199 min,2022,7,3,9,9,3,8,8,10,9,7,5,3,4,5,5,3,10,10,4,6
+Independence Day,Roland Emmerich,200 min,1996,10,10,7,7,5,8,6,5,5,6,8,10,9,3,5,5,3,10,10,6
+The Expendables 4,Scott Waugh,201 min,2023,6,5,4,6,8,10,6,6,8,8,6,7,10,10,5,10,5,4,5,4
+Inglourious Basterds,Quentin Tarantino,202 min,2009,5,9,9,6,4,7,9,4,7,5,10,6,3,5,9,5,9,3,8,8
+The Amazing Maurice,Toby Genkel,203 min,2022,10,5,3,10,4,10,10,5,3,5,9,9,6,7,10,9,10,7,3,5
+No Time to Die,Cary Joji Fukunaga,204 min,2021,3,8,9,5,6,8,6,5,5,3,9,7,10,6,6,4,9,8,6,3
+Uncharted,Ruben Fleischer,205 min,2022,4,7,10,5,7,10,4,8,7,9,7,5,7,5,3,9,3,8,4,9
+Strays,Josh Greenbaum,206 min,2023,4,9,5,6,9,5,10,10,3,4,3,3,6,4,7,3,10,3,6,3
+Vesper,Kristina Buozyte,207 min,2022,9,9,9,7,8,6,6,4,7,8,4,10,4,9,10,10,10,4,4,6
+Shazam! Fury of the Gods,David F. Sandberg,208 min,2023,9,4,6,4,5,7,3,8,10,10,10,9,4,3,9,5,3,3,7,3
+Harry Potter and the Goblet of Fire,Mike Newell,209 min,2005,10,3,8,5,4,4,4,9,4,4,3,9,7,7,3,7,10,9,8,10
+The Suicide Squad,James Gunn,210 min,2021,5,7,7,6,8,6,6,8,10,4,5,4,6,5,9,4,9,4,8,10
+The Mummy,Stephen Sommers,211 min,1999,9,7,6,5,5,6,10,8,10,7,10,8,6,3,6,5,9,4,8,10
+Back to the Future,Robert Zemeckis,212 min,1985,6,8,3,3,8,10,4,4,3,8,3,6,6,4,9,5,8,6,7,3
+Jurassic Park,Steven Spielberg,213 min,1993,7,5,10,4,4,10,8,3,4,5,8,9,9,5,3,10,4,8,3,8
+Kingsman: The Golden Circle,Matthew Vaughn,214 min,2017,7,3,4,8,7,9,7,9,6,10,4,9,9,3,3,8,9,7,3,4
+The Goonies,Richard Donner,215 min,1985,10,4,3,6,6,6,9,5,4,8,10,3,6,9,10,5,6,9,3,9
+Willow,Ron Howard,216 min,1988,8,4,6,5,8,4,3,7,4,4,6,5,10,9,9,7,7,4,3,4
+The Grand Budapest Hotel,Wes Anderson,217 min,2014,3,6,4,7,8,8,7,8,4,6,6,7,4,9,5,8,6,6,7,10
+Edge of Tomorrow,Doug Liman,218 min,2014,4,5,5,9,4,7,8,8,5,5,4,9,5,10,6,5,8,7,5,9
+Dances with Wolves,Kevin Costner,219 min,1990,7,6,5,7,7,10,4,8,10,5,4,9,5,8,6,10,3,3,8,7
+The Lord of the Rings: The Return of the King,Peter Jackson,220 min,2003,5,9,7,6,4,3,5,7,7,3,3,8,7,8,7,7,5,6,4,8
+Sing 2,Garth Jennings,221 min,2021,4,3,3,6,6,4,5,6,4,10,6,8,3,6,8,9,3,5,7,9
+The Lost City,Aaron Nee,222 min,2022,5,6,5,5,8,7,4,9,7,7,10,7,7,3,9,5,5,5,8,7
+The Blue Lagoon,Randal Kleiser,223 min,1980,10,6,9,5,10,9,7,7,6,5,10,8,10,8,8,8,5,7,4,8
+Dune: Part Two,Denis Villeneuve,224 min,2023,5,4,10,5,7,9,7,9,10,10,10,10,8,3,8,4,4,10,8,4
+The Hunger Games: Catching Fire,Francis Lawrence,225 min,2013,8,10,7,6,7,5,9,10,8,10,5,8,3,5,9,8,6,5,4,7
+The King's Man,Matthew Vaughn,226 min,2021,3,10,7,9,8,6,10,3,10,9,10,9,8,3,8,7,9,4,10,10
+Doctor Strange in the Multiverse of Madness,Sam Raimi,227 min,2022,10,5,7,10,8,5,7,7,7,4,3,9,8,7,5,8,5,4,8,7
+Beast,Baltasar KormÃ¡kur,228 min,2022,10,6,4,4,5,9,9,5,5,5,6,9,7,9,10,6,5,7,4,8
+Eternals,Chloé Zhao,229 min,2021,6,4,5,7,3,3,6,4,4,9,9,5,7,6,7,4,9,10,10,9
+Harry Potter and the Deathly Hallows: Part 2,David Yates,230 min,2011,9,4,8,6,9,5,8,5,6,8,10,5,6,10,10,9,10,9,6,4
+Guardians of the Galaxy,James Gunn,231 min,2014,8,10,7,6,9,3,6,5,3,8,10,5,5,8,5,7,7,10,3,4
+The Princess Bride,Rob Reiner,232 min,1987,7,9,5,8,10,6,4,9,8,5,6,3,8,5,5,3,6,10,6,7
+Wonka,Paul King,233 min,2023,3,10,9,8,4,6,9,4,7,7,6,6,7,3,9,6,4,9,9,4
+Prey,Dan Trachtenberg,234 min,2022,10,9,10,3,6,9,7,10,6,4,5,8,7,9,9,6,3,3,8,7
+Mad Max: Fury Road,George Miller,235 min,2015,7,10,9,3,6,6,5,4,10,7,4,9,5,8,3,7,6,4,8,8
+Free Guy,Shawn Levy,236 min,2021,10,10,10,10,10,10,10,9,4,7,5,3,5,7,8,3,8,8,6,9
+Harry Potter and the Prisoner of Azkaban,Alfonso Cuarón ,237 min,2004,4,3,4,10,8,10,4,8,6,7,4,3,4,3,9,7,4,4,4,10
+Star Wars,George Lucas,238 min,1977,7,4,5,10,8,8,8,3,6,5,8,10,5,5,4,10,9,7,5,3
+GoldenEye,Martin Campbell,239 min,1995,5,4,9,4,9,10,4,3,5,10,8,5,8,3,5,8,3,4,4,8
+Fantastic Beasts: The Secrets of Dumbledore,David Yates,240 min,2022,5,6,10,8,5,4,4,6,4,6,6,9,5,7,9,4,10,8,10,4

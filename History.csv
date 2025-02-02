@@ -1,0 +1,81 @@
+Movie,Director,Runtime,Release,User-1,User-2,User-3,User-4,User-5,User-6,User-7,User-8,User-9,User-10,User-11,User-12,User-13,User-14,User-15,User-16,User-17,User-18,User-19,User-20
+Babylon,Damien Chazelle,189 minutes,2022,8,7,5,10,7,7,9,4,9,3,9,3,9,5,5,4,10,6,9,9
+Amsterdam,David O. Russell,134 minutes,2022,8,6,8,3,8,7,6,4,4,6,4,4,4,10,7,9,8,5,4,8
+The Northman,Robert Eggers,137 minutes,2022,6,10,4,6,7,4,3,5,9,6,5,10,8,8,7,10,3,9,5,4
+Narvik: Hitler's First Defeat,Erik Skjoldbjærg,108 minutes,2022,8,10,4,7,8,6,10,10,5,5,4,5,10,3,3,6,4,4,6,7
+The Woman King,Gina Prince-Bythewood,135 minutes,2022,10,9,5,8,10,8,6,9,5,5,4,8,3,7,3,3,9,5,7,6
+Oppenheimer,Christopher Nolan,180 minutes,2023,4,8,8,9,9,9,6,7,7,6,9,7,9,9,9,8,5,6,4,7
+Killers of the Flower Moon,Martin Scorsese,206 minutes,2023,4,3,4,9,6,3,3,8,7,4,7,9,3,4,6,8,7,6,10,3
+Schindler's List,Steven Spielberg,195 minutes,1993,6,7,6,4,8,8,10,6,5,4,9,3,7,6,9,10,7,9,6,10
+She Said,Maria Schrader,129 minutes,2022,4,4,3,3,9,10,10,3,3,6,3,10,7,6,3,5,5,7,9,5
+Dunkirk,Christopher Nolan,106 minutes,2017,3,10,5,5,5,6,6,7,10,4,4,6,7,4,5,9,3,10,6,9
+Hidden Figures,Theodore Melfi,127 minutes,2016,7,8,3,6,3,7,8,9,4,5,7,5,8,5,6,7,4,6,4,4
+Till,Chinonye Chukwu,130 minutes,2022,9,7,7,5,9,5,7,6,5,7,7,5,7,4,10,9,10,9,8,5
+Mission Majnu,Shantanu Bagchi,129 minutes,2023,4,5,4,7,7,10,6,7,8,5,4,9,3,4,8,8,9,3,6,7
+Hacksaw Ridge,Mel Gibson,139 minutes,2016,9,5,6,5,6,3,6,3,8,7,9,8,3,10,5,8,4,4,9,4
+Medieval,Petr Jákl,126 minutes,2022,4,10,3,8,5,10,7,8,10,5,4,4,7,7,10,6,7,5,10,8
+The Big Short,Adam McKay,130 minutes,2015,4,4,9,4,5,9,6,6,9,10,10,5,4,7,8,5,7,6,4,3
+Braveheart,Mel Gibson,178 minutes,1995,6,6,8,6,3,4,9,7,8,4,8,8,4,6,4,7,9,3,7,7
+"Argentina, 1985",Santiago Mitre,140 minutes,2022,9,9,6,8,7,3,10,8,9,10,4,6,5,3,6,3,5,7,4,6
+Tombstone,George P. Cosmatos,130 minutes,1993,8,10,3,5,10,5,3,10,9,6,4,6,3,6,6,3,6,9,4,5
+The Last Duel,Ridley Scott,153 minutes,2021,3,6,7,3,7,5,9,6,7,4,7,6,9,9,3,10,6,8,7,8
+Hamilton,Thomas Kail,160 minutes,2020,5,7,5,3,3,5,7,7,9,8,5,10,10,6,5,8,6,6,4,3
+BlackBerry,Matt Johnson,120 minutes,2023,7,10,7,4,10,9,4,8,8,4,3,10,6,5,10,4,5,8,6,7
+The King,David Michôd,140 minutes,2019,6,4,5,4,8,5,10,4,10,6,3,9,3,3,8,6,4,7,4,9
+Kingdom of Heaven,Ridley Scott,144 minutes,2005,6,6,4,4,9,9,10,7,10,5,6,4,3,3,4,10,5,9,5,6
+Caligula,Tinto Brass,156 minutes,1979,7,9,3,8,9,3,10,6,8,8,8,4,5,10,9,7,7,5,3,3
+JFK,Oliver Stone,189 minutes,1991,6,8,8,4,4,4,6,4,10,10,9,9,6,6,8,7,10,3,3,3
+History of the World: Part I,Mel Brooks,92 minutes,1981,4,7,5,9,10,6,5,3,6,6,10,3,4,5,4,9,6,9,5,10
+Black Hawk Down,Ridley Scott,144 minutes,2001,7,6,5,3,7,9,6,9,8,4,4,6,8,8,8,7,9,6,3,10
+Malcolm X,Spike Lee,202 minutes,1992,9,9,7,4,7,6,4,5,10,9,7,3,5,6,4,5,6,10,8,4
+12 Years a Slave,Steve McQueen,134 minutes,2013,4,4,9,7,3,7,10,4,6,3,4,5,7,4,6,6,10,9,10,10
+Corsage,Marie Kreutzer,113 minutes,2022,7,8,6,4,4,5,3,6,6,4,3,6,7,10,10,8,6,8,3,7
+The Impossible,J.A. Bayona,114 minutes,2012,9,7,10,8,9,9,8,9,7,6,10,8,6,10,7,6,10,7,9,9
+Inherit the Wind,Stanley Kramer,128 minutes,1960,5,9,3,7,9,5,6,3,8,6,9,4,7,3,8,5,9,3,5,3
+Pearl Harbor,Michael Bay,183 minutes,2001,10,8,7,8,7,6,4,7,7,8,8,8,6,7,9,9,4,8,6,9
+13 Hours,Michael Bay,144 minutes,2016,3,10,7,6,7,6,7,10,10,8,5,4,8,6,6,3,7,10,4,9
+The Favourite,Yorgos Lanthimos,119 minutes,2018,4,5,6,3,4,4,4,9,3,8,8,3,10,5,5,3,10,8,5,9
+Zero Dark Thirty,Kathryn Bigelow,157 minutes,2012,3,7,10,9,5,6,4,3,10,8,3,6,5,5,8,7,7,4,10,5
+21,Robert Luketic,123 minutes,2008,9,9,7,6,3,9,6,7,4,5,3,10,5,6,8,8,8,9,8,10
+Downfall,Oliver Hirschbiegel,156 minutes,2004,10,8,3,9,4,3,3,8,4,10,10,9,8,7,7,4,10,10,3,4
+The Assassination of Jesse James by the Coward Robert Ford,Andrew Dominik,160 minutes,2007,5,4,9,6,9,8,3,4,8,4,6,7,10,3,9,9,4,10,5,4
+The Thin Red Line,Terrence Malick,170 minutes,1998,9,8,10,7,8,7,4,3,10,6,3,6,10,7,6,10,5,3,7,8
+First Man,Damien Chazelle,141 minutes,2018,7,5,4,10,7,4,9,8,10,4,10,6,9,6,3,7,6,8,8,10
+Greyhound,Aaron Schneider,91 minutes,2020,3,8,7,6,10,3,8,6,10,8,6,4,4,6,5,6,10,3,10,5
+The Post,Steven Spielberg,116 minutes,2017,4,8,4,5,3,10,7,8,4,10,10,8,4,8,6,7,9,8,3,9
+Napoleon,Ridley Scott,158 minutes,2023,3,7,10,8,6,7,7,7,8,5,3,6,4,4,4,9,5,8,10,8
+Judas and the Black Messiah,Shaka King,126 minutes,2021,3,9,8,10,4,4,5,3,7,10,4,8,4,7,6,10,4,6,9,7
+The King's Speech,Tom Hooper,118 minutes,2010,5,7,6,10,6,9,9,4,9,8,6,5,10,10,5,5,8,5,9,5
+Midway,Roland Emmerich,138 minutes,2019,3,8,5,9,9,5,9,6,5,6,3,3,7,5,3,9,7,7,6,10
+Curiosa,Lou Jeunet,107 minutes,2019,9,6,6,6,8,4,4,3,10,6,3,5,7,5,9,3,5,9,7,5
+The Way Back,Peter Weir,133 minutes,2010,6,7,7,5,4,4,5,5,9,9,8,4,4,3,9,6,4,8,9,7
+The Patriot,Roland Emmerich,165 minutes,2010,8,7,9,7,8,8,10,10,6,10,3,4,3,4,5,9,3,6,9,10
+Robin Hood,Ridley Scott,140 minutes,2021,10,7,5,9,6,8,4,5,5,6,7,7,6,3,5,9,7,4,4,5
+Benedetta,Paul Verhoeven,131 minutes,2015,9,10,10,4,6,5,10,6,3,3,4,9,8,7,3,10,5,9,10,9
+Bridge of Spies,Steven Spielberg,142 minutes,1995,8,8,7,10,8,5,10,9,4,8,5,4,8,3,10,10,7,6,3,6
+Apollo 13,Ron Howard,140 minutes,2012,9,5,9,10,3,9,6,6,6,5,8,4,3,5,7,8,9,4,10,5
+Lincoln,Steven Spielberg,150 minutes,1963,7,5,5,4,7,8,5,8,7,10,7,8,6,10,7,6,3,7,4,7
+The Great Escape,John Sturges,172 minutes,2018,5,6,10,7,4,10,3,9,6,10,8,9,5,8,6,6,10,4,9,3
+Outlaw King,David Mackenzie,121 minutes,2019,3,3,7,6,6,4,5,7,6,9,10,6,3,9,5,10,9,3,3,10
+Harriet,Kasi Lemmons,125 minutes,2018,4,3,6,7,8,9,4,3,5,9,7,4,3,6,10,5,6,6,6,5
+Mary Queen of Scots,Josie Rourke,124 minutes,2008,8,4,10,7,7,8,3,8,8,10,8,10,7,3,6,9,3,6,3,5
+Defiance,Edward Zwick,137 minutes,2004,9,6,5,3,4,8,4,4,10,4,8,6,6,6,7,4,4,5,3,3
+Alexander,Oliver Stone,175 minutes,2016,9,10,3,5,10,4,10,5,3,10,10,6,10,4,7,9,4,6,8,7
+Deepwater Horizon,Peter Berg,107 minutes,2016,9,4,10,6,4,4,4,7,4,3,7,8,5,8,10,3,3,5,10,3
+12 Strong,Nicolai Fuglsig,130 minutes,2018,9,10,8,10,5,9,8,5,8,8,9,7,10,8,7,4,7,8,9,4
+The Courier,Dominic Cooke,112 minutes,2020,8,5,8,10,4,3,10,9,10,7,7,4,9,5,6,4,10,5,7,3
+Munich,Steven Spielberg,164 minutes,2005,3,4,5,3,3,3,7,3,3,10,9,5,4,10,3,9,9,9,4,5
+Silence,Martin Scorsese,161 minutes,2016,9,8,10,3,5,6,3,4,7,10,9,6,7,3,10,4,4,8,6,8
+Straight Outta Compton,F. Gary Gray,147 minutes,2015,8,6,4,4,3,5,5,4,8,9,9,5,6,4,10,9,10,10,10,6
+Public Enemies,Michael Mann,140 minutes,2009,4,3,10,5,5,4,8,9,6,8,4,10,8,3,5,7,5,10,10,6
+Marie Antoinette,Sofia Coppola,123 minutes,2006,3,8,7,7,9,8,4,10,3,10,7,9,10,7,3,3,7,8,6,6
+Shakespeare in Love,John Madden,123 minutes,1998,4,9,5,9,5,3,10,7,5,7,9,3,10,3,7,3,3,5,4,5
+The Trial of the Chicago 7,Aaron Sorkin,130 minutes,2020,8,7,5,8,7,3,10,7,10,8,7,10,9,10,9,4,7,9,4,10
+Skyggen i mit Ã¸je,Ole Bornedal,107 minutes,2021,6,5,5,6,9,9,9,5,8,3,7,6,5,8,10,5,10,6,4,7
+The Ten Commandments,Cecil B. DeMille,220 minutes,1956,6,4,6,5,7,5,5,6,8,8,4,7,10,4,9,3,8,10,6,10
+King Arthur,Antoine Fuqua,126 minutes,2004,10,6,3,7,5,8,5,3,8,5,6,7,7,3,10,4,4,10,7,10
+Valkyrie,Bryan Singer,121 minutes,2008,8,8,4,5,9,7,4,6,4,4,7,6,7,6,7,7,4,7,10,4
+In the Heart of the Sea,Ron Howard,122 minutes,2015,10,4,8,7,7,9,10,6,3,10,5,3,10,8,10,10,5,9,8,6
+We Were Soldiers,Randall Wallace,138 minutes,2002,4,4,7,5,8,7,5,9,3,9,4,9,9,5,5,8,3,5,6,10
+Flags of Our Fathers,Clint Eastwood,135 minutes,2006,4,6,6,7,3,9,3,4,10,9,4,4,7,10,7,5,9,5,6,10
+"Lust, Caution",Ang Lee,157 minutes,2007,7,4,9,9,8,8,8,6,8,7,5,7,6,8,7,3,8,7,10,4

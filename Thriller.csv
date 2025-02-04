@@ -1,82 +1,130 @@
 Movie,Director,Runtime,Release,User-1,User-2,User-3,User-4,User-5,User-6,User-7,User-8,User-9,User-10,User-11,User-12,User-13,User-14,User-15,User-16,User-17,User-18,User-19,User-20
-Black Panther: Wakanda Forever,Ryan Coogler,161 min,2022,10,3,3,7,4,7,10,7,3,3,4,5,8,9,8,6,9,5,6,8
-Knock at the Cabin,M. Night Shyamalan,100 min,2023,4,10,10,4,5,6,9,8,3,4,8,6,8,8,3,7,10,9,7,5
-Plane,Jean-François Richet,107 min,2023,4,8,4,5,6,7,5,4,6,9,9,6,7,4,6,7,9,7,9,3
-The Menu,Mark Mylod,107 min,2022,4,8,6,10,3,10,4,3,6,10,4,8,10,8,7,6,7,5,7,4
-Fast X,Louis Leterrier,141 min,2023,10,5,8,9,10,3,5,8,6,8,8,3,7,8,5,5,3,4,3,9
-M3GAN,Gerard Johnstone,102 min,2022,5,4,10,3,7,8,10,3,7,7,10,7,9,10,7,3,7,4,3,7
-Ant-Man and the Wasp: Quantumania,Peyton Reed,125 min,2023,10,4,6,3,7,8,4,9,3,9,8,4,3,9,9,8,9,3,10,5
-Bullet Train,David Leitch,127 min,2022,9,5,9,3,4,10,8,7,8,4,8,6,3,6,9,6,4,7,3,4
-Glass Onion,Rian Johnson,139 min,2022,4,9,9,8,3,6,5,8,4,6,6,7,5,9,7,7,3,4,4,7
-Viking Wolf,Stig Svendsen,97 min,2022,7,7,10,10,4,10,4,9,10,9,3,8,8,8,9,3,7,10,5,3
-Infinity Pool,Brandon Cronenberg,117 min,2023,8,5,6,7,10,7,4,5,10,7,9,3,5,7,4,6,8,10,6,6
-Scream VI,Matt Bettinelli-Olpin,123 min,2023,6,3,7,10,7,3,8,4,4,10,5,6,10,10,9,8,4,6,4,3
-Cocaine Bear,Elizabeth Banks,95 min,2023,8,10,10,6,4,3,10,10,7,8,3,6,4,7,4,10,10,8,6,4
-The Pale Blue Eye,Scott Cooper,128 min,2022,4,7,9,10,7,6,8,7,6,10,4,10,6,7,3,10,5,9,5,6
-Pathaan,Siddharth Anand,146 min,2023,4,7,9,5,4,9,6,7,10,5,10,5,9,3,7,6,4,8,6,10
-X,Ti West,105 min,2022,7,5,5,6,6,3,9,4,9,6,4,10,10,8,9,6,3,6,6,9
-"Alice, Darling",Mary Nighy,89 min,2022,7,8,9,3,4,4,6,4,4,7,6,10,6,10,8,7,5,8,7,4
-Teen Wolf: The Movie,Russell Mulcahy,140 min,2023,3,10,10,9,4,5,9,4,4,7,4,10,5,9,8,6,3,7,10,5
-Blood,Brad Anderson,108 min,2022,4,8,6,6,10,7,7,9,6,6,7,5,4,9,10,4,4,3,7,7
-Infiesto,Patxi Amezcua,96 min,2023,8,3,10,8,9,3,10,7,10,10,10,10,6,7,5,5,5,6,7,6
-Amsterdam,David O. Russell,134 min,2022,5,6,3,9,4,7,9,10,4,5,6,8,3,6,6,10,8,9,10,3
-The Batman,Matt Reeves,176 min,2022,3,7,3,10,9,5,3,8,8,3,4,6,4,4,5,6,7,10,9,5
-Baby Ruby,Bess Wohl,93 min,2022,3,10,3,6,9,8,8,3,3,7,6,9,3,9,8,5,6,7,8,9
-Where the Crawdads Sing,Olivia Newman,125 min,2022,6,3,6,9,8,3,10,7,4,6,5,7,5,3,6,7,3,10,3,3
-Knives Out,Rian Johnson,130 min,2019,8,8,3,7,10,4,6,10,6,10,10,3,9,8,7,6,10,5,4,9
-Barbarian,Zach Cregger,102 min,2022,5,7,3,9,4,7,3,10,3,4,5,7,7,6,9,8,6,7,9,4
-Missing,Nicholas D. Johnson,111 min,2023,6,5,9,7,10,10,6,6,3,6,5,10,8,9,7,5,3,9,5,10
-Don't Worry Darling,Olivia Wilde,123 min,2022,3,7,3,10,5,4,5,3,5,7,6,9,5,4,9,6,7,8,8,9
-Operation Fortune: Ruse de guerre,Guy Ritchie,114 min,2023,9,6,8,7,3,10,9,9,8,8,8,10,8,9,3,8,5,10,7,5
-Vadh,"Jaspal Singh Sandhu, 
-Rajeev Barnwal",110 min,2022,9,3,5,10,5,10,8,7,8,5,3,5,5,4,6,5,3,3,3,10
-Jurassic World: Dominion,Colin Trevorrow,147 min,2022,5,6,10,9,3,10,5,9,4,9,9,6,7,8,10,7,8,6,4,10
-Vengeance,B.J. Novak,107 min,2022,10,4,10,8,9,6,6,3,3,8,10,4,6,3,8,5,8,8,3,9
-Smile,Parker Finn,115 min,2022,9,6,8,7,7,9,7,6,7,9,6,3,5,6,6,10,9,4,9,9
-The Hunger Games,Gary Ross,142 min,2012,9,7,4,4,9,5,3,4,9,8,6,8,6,6,3,10,8,8,5,8
-The Northman,Robert Eggers,137 min,2022,10,7,8,6,10,8,4,10,6,10,3,10,10,5,9,6,4,3,7,3
-Fall,Scott Mann,107 min,2022,8,6,7,3,10,5,9,9,6,5,9,7,5,7,5,6,3,8,8,3
-Nope,Jordan Peele,130 min,2022,4,7,6,10,5,10,7,6,8,5,4,7,4,8,7,6,3,8,5,9
-The Unbearable Weight of Massive Talent,Tom Gormican,107 min,2022,8,4,10,7,5,9,5,9,7,3,6,3,5,7,6,10,9,7,8,3
-Cocaine Bear,Guy Ritchie,95 min,2023,3,10,4,6,7,5,8,9,5,3,5,10,8,8,6,5,8,9,5,3
-Jeepers Creepers: Reborn,Timo Vuorensola,88 min,2022,3,5,10,4,8,6,5,6,10,9,4,5,9,10,3,9,9,10,9,8
-Scream,Matt Bettinelli-Olpin,114 min,2022,8,6,7,4,3,6,9,10,5,5,4,7,3,4,9,6,8,9,3,5
-The Locksmith,Nicolas Harvard,92 min,2023,4,7,10,10,9,7,4,3,5,4,10,7,9,9,7,10,3,4,8,6
-The Dark Knight,Christopher Nolan,152 min,2008,5,7,5,8,6,9,4,10,7,8,9,4,9,8,4,10,5,8,7,6
-Inception,Christopher Nolan,148 min,2010,6,10,5,6,8,10,4,10,7,4,3,7,8,8,6,4,4,5,7,4
-Black Swan,Darren Aronofsky,108 min,2010,6,4,7,5,4,7,9,10,5,5,6,4,4,3,9,3,7,8,5,8
-John Wick: Chapter 4,Chad Stahelski,169 min,2023,10,9,3,9,7,7,4,3,5,7,7,7,3,6,5,8,4,8,8,3
-Old,M. Night Shyamalan,108 min,2021,9,6,5,8,10,4,3,5,3,10,9,6,10,6,8,3,7,8,5,10
-Midsommar,Ari Aster,148 min,2019,8,5,9,6,6,10,6,9,10,4,7,9,6,3,8,9,10,5,6,3
-Decision to Leave,Park Chan-wook,139 min,2022,10,4,8,3,6,5,10,3,8,5,9,10,3,3,6,10,8,3,6,9
-65,Scott Beck,153 min,2023,3,10,7,10,5,3,7,6,6,5,3,10,4,7,6,9,6,8,8,8
-Little Dixie,John Swab,105 min,2023,5,8,6,10,4,10,4,8,5,5,10,9,4,6,10,8,6,10,8,10
-The Black Phone,Scott Derrickson,103 min,2021,8,5,8,4,4,4,7,5,6,6,6,6,6,8,3,5,3,10,9,9
-An Action Hero,Anirudh Iyer,130 min,2022,5,5,7,6,5,8,10,4,5,3,8,9,3,6,10,3,10,8,10,9
-The Boogeyman,Rob Savage,100 min,2023,9,4,3,3,4,9,6,10,4,6,7,4,10,7,6,8,10,7,8,7
-Killers of the Flower Moon,Martin Scorsese,206 min,2023,5,5,10,9,6,9,3,6,10,10,9,10,8,6,5,4,3,7,7,4
-Luther: The Fallen Sun,Jamie Payne,129 min,2023,9,3,7,9,6,9,7,9,4,8,3,5,10,9,7,4,6,10,8,4
-John Wick,Chad Stahelski,101 min,2014,9,6,10,9,8,4,10,9,8,4,7,3,10,10,10,9,8,10,5,5
-Blade Runner 2049,Denis Villeneuve,164 min,2017,7,5,7,10,4,8,8,5,6,5,8,5,3,8,10,4,10,4,8,5
-Hereditary,Ari Aster,127 min,2018,8,3,7,3,4,4,5,8,7,6,5,4,6,3,5,8,8,5,4,3
-F9: The Fast Saga,Justin Lin,143 min,2021,10,9,6,5,8,3,10,4,6,3,5,8,9,8,8,7,8,4,6,6
-Parasite,Bong Joon Ho,132 min,2019,9,5,3,10,8,5,9,10,9,7,10,4,7,10,5,7,6,3,7,6
-Violent Night,Tommy Wirkola,112 min,2022,10,7,7,10,8,10,4,4,3,9,8,8,8,5,8,6,6,7,8,10
-Last Seen Alive,Brian Goodman,95 min,2022,10,5,9,7,9,5,6,7,10,7,8,7,6,4,10,5,3,6,9,4
-Nobody,Ilya Naishuller,92 min,2021,10,8,6,8,8,10,8,6,3,8,5,6,5,9,6,4,7,8,9,5
-The Gray Man,Anthony Russo,122 min,2022,4,9,10,4,10,9,8,9,10,8,9,7,10,3,9,4,9,10,8,6
-Prisoners,Denis Villeneuve,153 min,2013,8,5,7,9,5,9,10,4,3,8,6,5,8,3,8,9,4,8,9,10
-Joker,Todd Phillips,122 min,2019,6,6,9,8,9,10,9,9,5,8,6,10,5,8,7,10,5,5,5,6
-The Fast and the Furious,Rob Cohen,106 min,2001,7,6,3,10,5,3,10,8,7,9,5,8,3,3,5,10,7,7,5,3
-The Expendables 4,Scott Waugh,103 min,2023,5,3,9,5,8,7,6,9,6,8,7,9,9,4,9,9,5,9,4,10
-In Bruges,Martin McDonagh,107 min,2008,7,3,4,3,7,9,3,3,6,7,3,4,4,6,6,7,9,10,7,8
-No Country for Old Men,Ethan Coen,122 min,2007,7,8,4,7,9,3,7,10,5,6,3,3,8,6,6,6,7,4,8,5
-Emily the Criminal,John Patton Ford,97 min,2022,3,5,3,5,3,5,5,8,5,9,8,7,6,3,4,8,6,3,10,5
-On the Line,Romuald Boulanger,104 min,2022,6,6,3,4,4,5,10,6,10,8,10,7,8,9,3,7,4,7,10,9
-No Time to Die,Cary Joji Fukunaga,163 min,2021,10,6,8,8,3,5,5,4,5,6,10,6,4,8,9,9,9,10,8,9
-Shutter Island,Martin Scorsese,138 min,2010,9,5,9,6,6,9,4,6,10,5,4,10,3,4,4,9,10,5,8,3
-Se7en,David Fincher,127 min,1995,10,5,7,3,10,3,6,8,3,4,4,5,5,10,10,8,10,4,4,7
-Tenet,Christopher Nolan,150 min,2020,10,9,7,6,10,6,9,7,6,4,9,10,3,9,6,8,7,6,3,9
-Luckiest Girl Alive,Mike Barker,113 min,2022,6,3,9,9,5,3,4,8,8,10,9,8,6,10,4,7,3,5,9,4
-Shazam! Fury of the Gods,David F. Sandberg,130 min,2023,5,3,9,6,8,4,7,6,3,3,10,7,3,4,4,7,9,5,7,8
-Split,M. Night Shyamalan,117 min,2016,3,10,8,8,8,7,5,6,3,7,10,6,3,9,4,4,9,8,9,7
+Black Panther: Wakanda Forever,Ryan Coogler,161 min,2022,6,9,9,5,4,5,4,9,4,6,6,8,7,6,9,5,3,6,3,10
+Knock at the Cabin,M. Night Shyamalan,100 min,2023,8,5,3,8,3,4,8,4,3,8,4,7,6,6,7,4,5,10,10,8
+Plane,Jean-François Richet,107 min,2023,3,4,6,8,6,3,10,4,5,9,6,4,6,5,5,4,8,7,8,8
+The Menu,Mark Mylod,107 min,2022,7,9,5,10,5,5,8,8,9,6,7,3,7,4,9,5,6,9,8,10
+Fast X,Louis Leterrier,141 min,2023,5,7,6,3,8,6,5,8,10,5,10,6,6,4,3,8,3,9,5,4
+M3GAN,Gerard Johnstone,102 min,2022,6,5,8,10,6,4,8,3,7,9,8,6,5,6,6,10,10,5,4,5
+Ant-Man and the Wasp: Quantumania,Peyton Reed,125 min,2023,9,5,3,5,4,3,10,3,7,9,10,6,10,8,5,7,9,9,10,10
+Bullet Train,David Leitch,127 min,2022,5,6,6,10,9,10,6,3,8,5,10,10,10,5,10,10,7,5,8,4
+Glass Onion,Rian Johnson,139 min,2022,8,4,8,7,8,5,9,7,9,6,4,5,7,4,6,3,3,9,10,10
+Viking Wolf,Stig Svendsen,97 min,2022,9,3,9,9,9,3,5,4,6,8,7,9,3,7,4,8,8,8,10,9
+Infinity Pool,Brandon Cronenberg,117 min,2023,8,8,5,5,3,6,4,4,3,5,4,6,9,9,4,9,6,4,3,10
+Scream VI,Matt Bettinelli-Olpin,123 min,2023,5,8,8,6,8,7,6,8,10,3,7,5,4,10,7,3,3,3,9,10
+Cocaine Bear,Elizabeth Banks,95 min,2023,4,4,7,6,3,5,3,10,10,10,7,8,6,6,3,3,9,4,10,8
+The Pale Blue Eye,Scott Cooper,128 min,2022,5,4,10,4,9,6,8,8,6,7,10,7,7,4,10,9,9,8,9,4
+Pathaan,Siddharth Anand,146 min,2023,8,4,9,3,3,5,8,9,7,8,5,9,8,9,10,3,8,4,5,3
+X,Ti West,105 min,2022,7,9,6,4,10,9,6,8,7,8,5,8,9,5,3,9,10,9,9,3
+"Alice, Darling",Mary Nighy,89 min,2022,4,4,6,5,4,6,9,8,10,3,5,4,7,8,8,5,9,7,7,4
+Teen Wolf: The Movie,Russell Mulcahy,140 min,2023,4,6,4,5,6,6,6,4,5,5,3,7,4,4,3,6,9,6,10,5
+Blood,Brad Anderson,108 min,2022,6,3,4,6,9,6,4,9,6,8,5,10,10,9,7,7,10,8,6,6
+Infiesto,Patxi Amezcua,96 min,2023,7,5,4,8,9,10,4,5,8,3,8,4,3,9,10,5,5,6,10,9
+Amsterdam,David O. Russell,134 min,2022,4,3,5,7,10,10,7,8,7,6,7,6,3,10,5,9,5,6,5,4
+The Batman,Matt Reeves,176 min,2022,3,9,4,9,9,3,8,6,6,3,7,8,7,3,10,5,5,3,6,10
+Baby Ruby,Bess Wohl,93 min,2022,10,8,9,8,9,10,5,7,7,4,3,5,4,8,10,9,3,6,5,4
+Where the Crawdads Sing,Olivia Newman,125 min,2022,9,5,5,5,3,6,7,10,5,6,9,10,5,9,3,10,4,3,10,10
+Knives Out,Rian Johnson,130 min,2019,10,9,5,8,7,4,9,6,3,9,9,8,8,5,7,6,3,10,6,4
+Barbarian,Zach Cregger,102 min,2022,5,4,10,7,9,9,8,8,9,4,8,6,4,10,10,4,9,6,3,5
+Missing,Nicholas D. Johnson,111 min,2023,7,5,9,5,8,9,8,10,10,9,8,6,8,4,9,6,6,4,9,8
+Don't Worry Darling,Olivia Wilde,123 min,2022,8,10,4,7,7,6,3,8,9,8,7,3,10,4,9,4,9,6,6,10
+Operation Fortune: Ruse de guerre,Guy Ritchie,114 min,2023,6,7,5,10,6,6,6,4,4,6,9,6,10,7,10,10,6,4,4,9
+Vadh,Jaspal Singh Sandhu,110 min,2022,7,6,10,5,9,4,5,8,5,6,5,9,3,10,3,10,10,3,5,4
+Jurassic World: Dominion,Colin Trevorrow,147 min,2022,8,8,9,3,5,4,7,8,7,5,3,10,10,4,7,5,3,6,5,5
+Vengeance,B.J. Novak,107 min,2022,7,10,7,3,5,8,7,8,10,5,10,8,3,8,4,7,4,9,10,6
+Smile,Parker Finn,115 min,2022,10,4,4,6,6,10,6,9,6,8,4,8,6,8,6,5,3,3,7,10
+The Hunger Games,Gary Ross,142 min,2012,9,3,6,8,3,7,10,6,7,9,9,7,10,6,8,7,8,7,10,5
+The Northman,Robert Eggers,137 min,2022,4,5,10,3,3,9,8,3,3,9,8,9,5,3,9,4,10,5,6,4
+Fall,Scott Mann,107 min,2022,9,7,9,5,5,10,9,6,3,5,3,6,7,6,10,4,8,8,5,5
+Nope,Jordan Peele,130 min,2022,3,4,4,5,3,4,7,4,3,7,4,7,9,8,6,5,8,8,8,6
+The Unbearable Weight of Massive Talent,Tom Gormican,107 min,2022,7,3,7,3,10,4,7,7,9,3,6,9,7,7,8,8,4,5,6,8
+The Covenant,Guy Ritchie,123 min,2023,6,7,7,9,10,4,5,5,10,10,8,10,4,4,9,10,10,4,10,4
+Jeepers Creepers: Reborn,Timo Vuorensola,88 min,2022,4,5,4,10,5,10,3,7,10,7,4,3,3,10,10,6,6,5,6,9
+Scream,Matt Bettinelli-Olpin,114 min,2022,8,4,6,7,10,9,8,3,10,4,5,5,3,9,8,4,5,6,3,5
+The Locksmith,Nicolas Harvard,92 min,2023,9,10,10,6,6,6,5,5,6,3,7,5,3,8,4,5,9,3,9,10
+The Dark Knight,Christopher Nolan,152 min,2008,3,6,3,4,6,10,9,7,6,6,5,5,5,9,10,7,4,9,9,7
+Inception,Christopher Nolan,148 min,2010,10,6,7,7,9,5,3,10,7,6,4,5,3,10,5,8,6,5,7,7
+Black Swan,Darren Aronofsky,108 min,2010,7,6,5,8,10,6,8,3,6,8,5,3,9,8,5,6,10,6,5,6
+John Wick: Chapter 4,Chad Stahelski,169 min,2023,6,10,6,9,4,9,6,10,4,10,9,10,8,6,3,5,3,4,8,3
+Old,M. Night Shyamalan,108 min,2021,6,10,10,3,10,5,5,3,9,6,9,6,4,10,9,5,8,10,10,9
+Midsommar,Ari Aster,148 min,2019,10,5,5,4,6,10,5,6,6,7,5,3,5,5,8,4,5,4,6,5
+Decision to Leave,Park Chan-wook,139 min,2022,3,9,5,4,5,4,10,6,10,7,8,5,10,4,4,3,10,9,9,8
+65,Scott Beck,93 min,2023,4,10,3,9,10,4,8,7,5,4,4,3,4,3,9,7,5,9,6,8
+Little Dixie,John Swab,105 min,2023,7,7,5,4,5,4,4,7,4,9,10,4,8,9,7,10,10,3,6,9
+The Black Phone,Scott Derrickson,103 min,2021,9,10,9,8,6,7,3,6,4,7,4,9,4,3,8,8,3,3,7,10
+An Action Hero,Anirudh Iyer,130 min,2022,6,6,10,5,7,7,3,6,3,4,10,4,9,7,10,6,8,10,9,10
+The Boogeyman,Rob Savage,99 min,2023,10,3,7,6,9,4,10,9,10,9,7,9,8,8,3,7,7,6,7,7
+Killers of the Flower Moon,Martin Scorsese,146 min,2023,9,7,10,10,3,8,5,8,9,6,7,6,6,9,7,8,8,5,10,5
+Luther: The Fallen Sun,Jamie Payne,129 min,2023,4,8,7,9,7,5,3,8,4,9,9,6,5,8,10,8,9,8,3,9
+John Wick,Chad Stahelski,101 min,2014,4,3,5,4,5,10,9,5,5,8,10,6,6,6,7,4,8,7,10,10
+Blade Runner 2049,Denis Villeneuve,164 min,2017,7,9,5,10,7,5,5,5,10,4,5,5,9,3,5,6,3,9,10,6
+Hereditary,Ari Aster,127 min,2018,6,3,6,8,6,4,5,8,6,9,10,4,5,6,4,4,4,9,4,8
+F9: The Fast Saga,Justin Lin,143 min,2021,10,5,7,10,4,9,3,7,6,10,5,4,9,5,7,4,6,9,4,6
+Parasite,Bong Joon Ho,132 min,2019,7,10,9,3,8,5,5,6,9,6,8,4,10,4,9,9,7,8,8,7
+Violent Night,Tommy Wirkola,112 min,2022,9,6,9,5,8,8,10,4,10,4,5,9,5,3,6,10,4,5,3,5
+Last Seen Alive,Brian Goodman,95 min,2022,4,7,6,6,8,4,4,10,7,9,3,7,4,10,8,4,6,8,10,10
+Nobody,Ilya Naishuller,92 min,2021,8,4,6,7,9,4,4,7,3,9,4,3,8,5,9,6,10,7,10,6
+The Gray Man,Anthony Russo,122 min,2022,7,4,5,10,9,8,9,10,5,3,6,10,6,5,7,5,5,9,6,5
+Prisoners,Denis Villeneuve,153 min,2013,6,6,6,5,10,3,3,3,3,9,4,9,4,4,6,6,4,6,10,8
+Joker,Todd Phillips,122 min,2019,7,3,9,4,6,10,9,6,3,6,3,4,10,10,3,6,8,7,8,9
+The Fast and the Furious,Rob Cohen,106 min,2001,5,7,7,3,3,10,6,8,9,4,9,9,10,9,7,8,7,3,4,5
+The Expendables 4,Scott Waugh,103 min,2023,5,8,7,8,3,10,9,5,3,8,9,8,5,4,5,4,9,9,6,5
+In Bruges,Martin McDonagh,107 min,2008,10,10,7,9,4,6,7,10,5,4,4,10,10,8,8,3,6,3,5,8
+No Country for Old Men,Ethan Coen,122 min,2007,5,8,8,10,6,4,9,8,9,4,8,7,5,6,3,7,8,9,9,6
+Emily the Criminal,John Patton Ford,97 min,2022,6,9,9,6,10,3,6,5,7,8,3,7,5,9,8,5,4,7,9,5
+On the Line,Romuald Boulanger,104 min,2022,7,5,8,5,9,6,7,9,3,4,7,7,7,6,7,8,9,5,4,6
+No Time to Die,Cary Joji Fukunaga,163 min,2021,9,3,9,5,9,10,6,3,4,5,6,4,7,9,3,10,7,5,8,4
+Shutter Island,Martin Scorsese,138 min,2010,7,8,7,9,6,3,8,10,3,9,5,8,8,7,7,10,10,6,8,8
+Se7en,David Fincher,127 min,1995,8,5,6,6,6,8,8,8,7,3,4,10,6,6,10,6,5,8,6,7
+Tenet,Christopher Nolan,150 min,2020,9,6,3,8,4,5,8,8,5,10,9,3,8,3,9,7,5,3,10,7
+Luckiest Girl Alive,Mike Barker,113 min,2022,4,9,8,9,8,7,6,9,4,4,3,9,5,5,9,9,6,4,3,7
+Shazam! Fury of the Gods,David F. Sandberg,130 min,2023,7,9,4,3,6,5,10,5,7,8,4,6,3,4,7,7,5,10,10,9
+Split,M. Night Shyamalan,117 min,2016,8,9,9,10,8,10,4,4,10,7,5,9,5,10,4,5,6,7,9,6
+The Silence of the Lambs,Jonathan Demme,118 min,1991,7,7,7,3,8,3,6,10,4,4,9,3,6,5,4,10,5,6,3,10
+Sick,John Hyams,83 min,2022,9,8,7,9,8,8,5,9,6,7,9,7,3,8,3,7,5,8,10,10
+Fifty Shades of Grey,Sam Taylor-Johnson,125 min,2015,5,9,8,9,6,3,3,5,9,10,10,3,9,8,9,9,6,6,5,5
+Dunkirk,Christopher Nolan,106 min,2017,8,8,7,6,8,8,6,10,10,8,10,6,8,8,9,3,8,7,3,5
+The Reading,Courtney Glaude,96 min,2023,3,8,5,6,8,8,6,5,9,6,5,5,9,6,7,5,3,8,3,4
+The Departed,Martin Scorsese,151 min,2006,5,4,5,7,6,9,7,3,5,9,6,7,10,9,3,8,6,6,8,7
+Gone Girl,David Fincher,149 min,2014,3,9,5,10,9,5,5,3,8,3,10,10,9,9,4,4,4,6,5,10
+The Prestige,Christopher Nolan,130 min,2006,4,3,4,3,10,5,4,10,6,7,10,6,8,4,6,9,9,9,8,6
+Transfusion,Matt Nable,106 min,2023,5,10,9,5,4,7,5,6,4,7,4,10,5,10,6,10,5,5,7,5
+Get Out,Jordan Peele,104 min,2017,10,9,4,4,3,9,7,5,5,9,8,3,10,5,9,3,3,8,10,5
+Jurassic Park,Steven Spielberg,127 min,1993,10,5,3,3,3,6,5,3,10,5,7,4,5,10,7,7,3,9,10,8
+Kingsman: The Golden Circle,Matthew Vaughn,141 min,2017,7,10,6,7,7,7,10,3,6,3,4,5,6,3,5,3,5,3,10,4
+The Lighthouse,Robert Eggers,109 min,2019,10,4,7,7,8,6,3,4,10,4,3,7,4,10,10,4,10,3,10,7
+Crisis,Nicholas Jarecki,118 min,2021,3,8,7,10,4,5,5,5,7,8,8,6,10,8,4,8,9,9,5,9
+Men,Alex Garland,100 min,2022,10,8,4,5,7,6,6,3,4,5,8,3,5,7,3,4,3,8,8,10
+Bodies Bodies Bodies,Halina Reijn,94 min,2022,10,7,10,4,5,6,4,7,10,10,6,9,3,7,3,4,9,8,4,6
+The Hunger Games: Catching Fire,Francis Lawrence,146 min,2013,3,10,9,5,10,7,3,4,9,7,5,7,5,10,10,6,10,10,5,10
+Infinite,Antoine Fuqua,106 min,2021,3,5,5,7,6,8,7,7,10,9,9,6,7,4,6,10,7,10,8,7
+The King's Man,Matthew Vaughn,131 min,2021,5,7,6,6,8,4,9,3,3,6,4,3,3,9,4,3,4,9,9,3
+The Good Nurse,Tobias Lindholm,121 min,2022,3,6,4,5,8,3,7,10,10,5,4,8,9,9,3,4,8,9,4,10
+Beast,Baltasar Kormákur,93 min,2022,3,4,9,3,9,3,4,10,5,8,8,7,8,9,9,7,10,6,5,10
+Irreversible,Gaspar Noé,97 min,2002,5,3,7,4,5,6,9,3,8,10,4,5,8,4,8,10,10,3,9,3
+The Stranger,Thomas M. Wright,117 min,2022,9,8,6,4,9,9,5,6,8,8,4,7,10,3,7,10,4,9,4,3
+Léon: The Professional,Luc Besson,110 min,1994,4,6,7,7,8,6,5,10,5,9,8,3,4,3,8,7,8,5,8,7
+Prey,Dan Trachtenberg,100 min,2022,6,7,10,10,5,7,3,3,5,7,10,7,10,9,4,8,9,5,4,3
+Mad Max: Fury Road,George Miller,120 min,2015,6,5,10,4,3,7,6,4,3,10,6,7,9,8,6,7,5,3,10,8
+Road House,Rowdy Herrington,114 min,1989,9,9,3,6,4,4,6,7,3,4,8,9,10,10,7,10,3,9,3,7
+The Visit,M. Night Shyamalan,94 min,2015,4,4,8,10,9,9,3,9,8,3,5,10,7,10,5,9,8,6,3,9
+Sharper,Benjamin Caron,116 min,2023,7,3,7,3,6,7,8,9,4,8,9,6,5,3,6,7,4,6,6,7
+Mission Majnu,Shantanu Bagchi,129 min,2023,3,4,4,6,8,3,10,3,3,7,5,9,9,9,5,3,3,4,4,10
+Last Night in Soho,Edgar Wright,116 min,2021,6,4,7,6,9,4,5,10,10,3,9,9,9,4,6,10,4,8,4,8
+GoldenEye,Martin Campbell,130 min,1995,3,10,8,3,7,4,8,8,6,7,7,3,6,3,8,8,5,6,4,8
+The Cabin in the Woods,Drew Goddard,95 min,2011,7,5,8,5,9,8,5,9,6,10,3,4,7,3,3,5,5,4,4,4
+Sicario,Denis Villeneuve,121 min,2015,5,8,9,10,9,10,7,3,5,5,6,8,4,8,4,9,5,7,10,4
+The Little Things,John Lee Hancock,128 min,2021,10,5,10,6,5,10,3,8,10,8,7,10,3,6,8,5,9,9,9,6
+Wifelike,James Bird,105 min,2022,10,4,8,9,6,9,10,3,3,3,7,5,10,9,6,5,4,3,4,5
+The Sixth Sense,M. Night Shyamalan,107 min,1999,10,7,5,9,8,6,6,5,3,5,8,5,7,4,4,9,3,9,7,6
+The Wonder,Sebastián Lelio,108 min,2022,8,8,8,8,9,9,5,4,4,7,4,9,4,8,3,4,9,4,7,8
+Oldboy,Park Chan-wook,120 min,2003,7,10,4,5,8,4,10,5,5,5,5,6,8,10,4,6,9,4,6,10
+Left Behind: Rise of the Antichrist,Kevin Sorbo,120 min,2023,7,7,4,7,7,5,6,6,9,10,6,3,5,5,5,4,8,5,5,9
+Deliverance,John Boorman,109 min,1972,5,8,9,3,10,8,6,6,10,9,8,6,3,5,6,3,7,3,3,10
+Memento,Christopher Nolan,113 min,2000,4,10,10,8,8,6,9,9,7,5,5,6,6,4,10,3,4,6,7,9
+The Invitation,Jessica M. Thompson,105 min,2022,5,7,9,10,3,6,6,7,9,9,4,10,8,3,3,5,3,9,7,9
+Promising Young Woman,Emerald Fennell,113 min,2020,4,5,3,5,3,3,6,10,7,10,7,9,6,7,7,9,7,7,4,9
+The Lobster,Yorgos Lanthimos,119 min,2015,6,8,4,4,7,10,10,7,10,8,8,9,8,9,10,3,4,5,3,7
+The Outfit,Graham Moore,105 min,2022,10,8,7,7,8,4,7,4,10,7,5,5,7,3,9,5,10,10,3,3
+Kingsman: The Secret Service,Matthew Vaughn,129 min,2014,9,4,3,8,8,10,7,8,5,3,4,8,9,7,7,7,7,7,3,6
+Poker Face,Russell Crowe,94 min,2022,4,3,10,6,6,7,7,5,4,5,7,4,10,4,5,9,7,5,10,8
+The Usual Suspects,Bryan Singer,106 min,1995,9,5,5,6,5,5,3,7,4,7,9,4,3,9,5,4,9,3,10,10

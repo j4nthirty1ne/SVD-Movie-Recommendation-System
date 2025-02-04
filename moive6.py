@@ -72,20 +72,20 @@ def search_movie():
         print(tabulate(related_movies[["movie", "director", "runtime", "release", "genre"]], headers="keys", tablefmt="fancy_grid", showindex=False))
 
 def recommend_movies():
-    print("\n🎬 𝗠𝗼𝘃𝗶𝗲 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺")
+    print("\n🎬 Movie Recommendation System")
     print("════════════════════════════")
 
     genre_list = [f" {num}. {genre}" for num, genre in GENRES.items()]
     column_width = max(len(line) for line in genre_list) + 5
 
-    print("\n📌 **Choose a Genre for Recommendations:**\n")
+    print("\n📌 Choose a Genre for Recommendations:\n")
     for i in range(0, len(genre_list), 2):
         left_col = genre_list[i]
         right_col = genre_list[i + 1] if i + 1 < len(genre_list) else ""
         print(f"{left_col.ljust(column_width)} {right_col}")
 
     try:
-        genre_selection = int(input("\n🎯 **Enter Your Choice:** "))
+        genre_selection = int(input("\n🎯 Enter Your Choice: "))
         if genre_selection not in GENRES:
             raise ValueError("❌ Invalid selection. Please choose a valid genre number.")
     except ValueError as e:
@@ -107,9 +107,9 @@ def recommend_movies():
         reconstructed_df = pd.DataFrame(reconstructed_matrix, index=df_numeric.index, columns=df_numeric.columns[:-1])
 
         average_ratings = reconstructed_df.mean(axis=1)
-        recommended_movies = average_ratings.sort_values(ascending=False).head(10)
+        recommended_movies = average_ratings.sort_values(ascending=False).head(5)
 
-        print(f"\n🎥 **Top 5 Recommended {selected_genre} Movies:**")
+        print(f"\n🎥 Top 5 Recommended {selected_genre} Movies:")
         table_data = []
         for idx, movie_index in enumerate(recommended_movies.index, start=1):
             movie_name = df.iloc[movie_index]["movie"]

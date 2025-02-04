@@ -1,80 +1,129 @@
 Movie,Director,Runtime,Release,User-1,User-2,User-3,User-4,User-5,User-6,User-7,User-8,User-9,User-10,User-11,User-12,User-13,User-14,User-15,User-16,User-17,User-18,User-19,User-20
-Knock at the Cabin,M. Night Shyama lan,100min,2023,5,7,9,9,3,5,10,5,10,7,6,8,4,6,4,10,4,4,9,3
-The Menu,Mark Mylod,106min,2022,6,7,9,9,3,10,5,10,10,3,7,8,9,7,8,10,10,10,8,7
-M3GAN,Gerard Johnstone,102min ,2022,4,5,6,7,8,4,10,7,7,5,6,9,4,10,9,9,5,5,5,8
-Viking Wolf,Stig Svendse,97min,2023,6,4,9,7,9,5,9,9,9,3,9,10,9,5,5,6,7,6,7,7
-Infinity Pool,Brandon Cronenberg,117min,2023,3,6,3,10,9,7,7,4,10,9,5,3,4,7,9,7,7,4,9,8
-Scream VI,"Matt Bettinell I-Olpin, Tyler Gillett",123min,2022,9,7,8,6,8,4,9,7,10,6,8,8,9,6,3,5,4,8,5,3
-The Pale Blue Eye,Scott Cooper,128min,2022,9,3,9,8,8,3,10,6,10,6,3,9,10,9,9,6,6,3,10,4
-X,Ti West,105min,2023,6,5,7,4,8,6,9,8,9,9,4,5,10,5,4,4,10,7,7,10
-Winnie the Pooh: Blood and Honey,Rhys Frake-Waterfield,84min,2022,10,6,10,8,10,6,6,5,10,5,8,4,6,10,4,8,9,3,3,3
-Blood,Brad Anderson,108min,2022,7,3,7,4,7,4,9,6,9,3,4,4,9,7,8,9,4,3,9,5
-Skinamarink, Kyle Edward Ball,100min,2022,9,6,8,8,6,6,3,9,9,7,7,6,9,5,4,7,3,7,3,6
-Barbarian,Zack Cregger,102min ,2022,9,9,7,5,4,10,9,5,6,6,6,5,10,6,4,6,6,9,9,3
-Pearl,Ti West,102min ,2022,8,6,6,4,10,10,7,6,10,7,4,3,8,4,7,5,7,10,8,7
-Smile,Parker Finn,115min,2022,6,6,3,6,7,8,4,10,7,4,6,10,7,5,7,5,8,3,10,5
-Nope,Jorden Peele,130mn,2022,3,5,3,3,10,3,4,7,8,4,5,5,3,4,4,9,5,9,6,10
-Jeepers Creepers: Reborn,Timo Vuorensola,88mn,2022,4,4,5,6,7,9,5,4,10,8,9,5,6,6,10,3,9,4,10,6
-Bones and All,Luca Guadag nino,131mn,2022,10,4,6,6,10,8,8,5,3,5,10,5,3,5,6,4,7,3,3,9
-Scream,"Matt Bettinell I-Olpin, Tyler Gillett",114mn,2022,6,3,3,3,4,6,6,10,3,10,5,3,8,4,10,9,8,6,5,8
-American Psycho,Mary Harron,102mn,2000,10,9,3,7,6,3,10,8,7,8,4,6,10,8,5,8,9,9,5,9
-Five Nights at Freddy's,Emma Tammi,110mn,2023,10,3,5,6,4,3,3,8,4,5,10,9,5,10,3,9,9,10,9,9
-Old,M. Night Shyama lan,108mn,2021,3,6,6,5,7,9,6,6,8,4,3,4,5,8,8,3,5,5,5,3
-Midsommar,Ari Aster,148mn,2019,4,6,4,4,10,7,6,10,3,8,7,6,7,6,3,6,8,5,5,8
-The Black Phone,Scott Derrickson,103mn,2021,10,7,5,10,3,4,9,6,3,10,3,7,3,10,4,5,3,4,8,3
-The Boogeyman,Rob Savage,98mn,2023,9,4,6,7,7,6,6,4,6,7,3,6,8,8,5,7,4,5,3,9
-Hereditary,Ari Aster,127mn,2018,4,4,8,3,5,7,8,7,6,10,4,4,4,4,4,3,9,4,10,8
-White Noise,Noah Baumbach,136mn,2022,7,10,10,6,6,4,7,10,9,6,8,3,5,10,5,9,6,4,9,5
-Venus,Jaume Balague ró,100mn,2022,4,6,7,5,10,10,5,6,4,6,5,6,5,7,7,6,5,8,4,6
-Terrifier 2,Damien Leone,138mn,2022,7,8,6,4,6,9,8,9,10,10,7,6,4,6,3,8,6,3,8,9
-Split,M. Night Shyama lan,117mn,2022,4,5,6,7,5,3,6,5,9,7,6,7,3,8,9,8,5,8,6,5
-Sick,John Hyams,83mn,2022,7,3,3,5,8,9,5,9,8,10,7,8,3,10,10,9,3,5,9,3
-Get Out,Jorden Peele,104mn,2017,5,10,6,7,5,7,9,9,9,9,5,6,6,4,5,3,9,10,10,8
-Scream,Wes Craven,111mn,1996,10,4,5,4,9,4,4,10,6,10,8,3,7,6,10,3,7,5,9,6
-Men,Alex Garland,100mn,2022,10,9,5,9,8,5,5,9,3,3,5,3,7,7,8,8,6,10,5,8
-Bodies Bodies Bodies,Halina Reijn,94mn,2022,9,9,5,4,3,8,8,10,6,4,10,6,9,4,7,7,7,10,9,6
-Doctor Strange in the Multiverse of Madness,Sam Raimi,126mn,2022,4,7,6,4,10,7,6,7,3,3,3,6,9,3,8,5,9,3,3,6
-Beast,Baltasar Kormákur,93mn,2022,3,5,4,8,3,9,3,5,8,5,4,6,3,8,9,9,7,7,7,7
-Alien,Ridley Scott,117mn,1979,6,3,6,8,4,8,10,10,7,3,5,8,9,9,4,5,9,10,3,6
-Evil Dead Rise,Lee Cronin,96mn,2023,10,5,9,3,4,10,5,8,8,4,7,7,8,4,7,5,8,10,7,7
-Prey,Dan Trachte,100mn,2022,9,5,10,3,3,4,5,3,10,10,6,3,10,3,9,7,5,4,3,9
-The Visit,M. Night Shyama lan,94mn,2015,4,7,4,9,3,7,4,4,7,5,7,4,9,7,5,4,10,10,10,4
-Last Night in Soho,Edgar Wright,116mn,2021,6,9,6,3,7,8,3,7,4,5,7,8,9,10,6,10,7,10,7,7
-The Cabin in the Woods,Drew Goddard,95mn,2012,3,7,3,6,7,6,9,7,6,5,6,7,5,5,3,7,7,6,10,4
-Bone Tomahawk,S. Craig Zahler,132mn,2015,10,5,4,8,6,3,9,6,9,6,8,6,10,8,8,9,9,10,6,9
-The Invitation,Karyn Kusama,100mn,2015,4,6,3,6,4,4,5,7,8,8,6,6,6,10,10,3,4,3,7,9
-Creature from the Black Lagoon,Jack Arnold,79mn,1954,4,10,9,10,6,7,10,7,7,7,10,5,8,10,8,6,6,7,8,4
-From Dusk Till Dawn,Robert Rodriguez,108mn,1996,7,9,8,7,5,8,7,9,3,10,10,8,8,3,10,10,8,6,8,3
-The Shining,Stanley Kubrick,146mn,1980,6,8,6,7,3,10,6,7,9,3,10,4,5,6,6,9,3,4,5,10
-The Outwaters,Robbie Banfitch,100mn,2022,4,4,10,6,10,4,10,3,10,4,6,5,5,6,9,10,9,3,7,7
-A Quiet Place,John Krasinski,90mn,2018,3,9,10,8,4,10,4,4,9,6,4,5,7,5,5,8,4,7,8,5
-A Serbian Film,Srdan Spasojevic,104mn,2010,5,3,9,9,6,8,4,4,3,6,7,9,5,5,8,5,7,10,9,5
-It,Andy Muschietti,135mn,2017,3,10,10,5,10,7,9,10,8,6,7,7,8,10,8,7,5,6,4,5
-She Came from the Woods,Erik Bloomquist,101mn,2022,8,8,6,5,4,10,4,5,3,10,7,5,4,7,4,3,5,6,3,8
-The Meg 2: The Trench,Ben Wheatley,116mn,2023,5,10,7,8,10,3,8,3,6,9,7,5,4,7,7,4,4,7,4,3
-Tusk,Kevin smith,102mn,2014,9,10,10,8,5,9,3,9,3,6,4,5,4,5,9,5,3,4,4,8
-Orphan: First Kill,William brentbell,99mn,2022,3,10,5,9,9,3,9,5,10,6,7,4,8,5,5,8,3,8,3,5
-Crimes of the Future,David Croenbreg,107mn,2022,8,4,4,3,10,4,5,3,7,7,8,3,7,10,4,10,8,10,4,4
-Hidden,"Matt Duffer, rose duffer",84mn,2015,8,9,7,6,6,7,8,3,4,10,3,4,10,4,7,3,10,5,10,7
-The Killing of a Sacred Deer,Yorgos Lanthimos,121mn,2017,6,4,10,4,6,7,8,4,5,5,5,8,5,10,7,10,5,3,4,9
-Glass,M. Night Shyama lan,129mn,2019,3,9,7,6,9,9,9,3,5,6,3,9,5,4,10,8,8,7,9,9
-Ready or Not,"Matt Bettinell I-Olpin, Tyler Gillett",95mn,2019,5,3,6,4,3,9,4,10,8,5,6,5,3,9,7,3,6,8,8,5
-The VVitch: A New-England Folktale,Robert Eggers,92mn,2015,9,3,9,4,8,9,3,9,6,6,8,3,6,5,4,4,8,5,9,7
-Come Play,Jacob Chase,96mn,2020,3,3,8,8,5,3,3,4,4,9,4,7,6,8,8,6,3,5,10,9
-Speak No Evil,Christian Tafdrup,97mn,2022,10,10,9,9,7,10,9,5,10,9,7,4,6,6,5,4,6,3,9,7
-Us,Jorden Peele,116mn,2019,6,6,10,5,7,4,10,7,5,10,4,9,3,5,6,5,4,7,10,9
-Candy Land,John Swab,93mn,2022,10,6,7,4,9,8,6,7,7,8,5,4,8,4,3,6,8,10,3,7
-Watcher,Chloe Okuno,96mn,2022,6,6,3,3,10,5,4,4,8,8,4,3,3,6,7,4,9,9,10,8
-Under the Skin,Jonatha  Glazer,108mn,2013,6,6,8,3,3,7,6,3,6,5,9,8,9,6,7,3,8,9,3,10
-There's Something Wrong with the Children,Roxanne Benjamin,92mn,2023,10,10,7,5,9,4,5,7,8,7,3,10,5,8,5,5,8,7,5,10
-I Know What You Did Last Summer,Jim Gillespin,101mn,1997,7,3,10,9,7,10,6,8,6,5,9,3,4,8,10,6,4,9,7,5
-Float,Zac Locke,72mn,2022,9,10,4,4,4,7,9,4,8,10,8,9,4,8,7,3,6,3,9,7
-The Conjuring,James Wan,112mn,2013,9,4,10,4,8,10,8,4,6,8,6,3,7,3,9,7,8,4,7,7
-Morbius,Daniel Espinosa,104mn,2022,3,7,8,3,6,6,8,5,7,6,9,5,8,3,8,9,6,8,8,5
-28 Days Later,Danny boyle,113mn,2002,8,9,5,8,4,7,5,8,10,8,8,3,7,8,9,9,7,5,6,6
-The Lost Boys,Joel Schumacher,97mn,1987,3,4,9,5,10,7,7,10,8,7,3,7,3,4,9,8,4,10,10,8
-Jennifer's Body,Karyn Kusama,102mn,2009,10,4,6,9,7,4,9,9,10,6,9,6,4,8,10,3,7,4,5,7
-Scream 4,Wes Craven,111mn,2011,7,3,7,9,9,4,4,7,3,5,8,4,6,10,7,9,4,3,9,7
-Knock Knock,Eli Roth,99mn,2015,9,9,9,10,4,8,8,3,7,5,3,5,9,6,6,3,4,3,4,3
-Suspiria,Dario Argento,98mn,1977,5,6,7,10,4,4,6,10,5,5,7,7,9,9,8,9,10,4,7,4
-The Offering,Oliver Park,93mn,2022,5,5,9,5,4,4,8,3,7,3,10,10,5,7,4,6,7,9,10,8
+Knock at the Cabin,M. Night Shyama lan,100min,2023,3,5,3,6,3,3,10,7,7,6,10,6,8,4,3,5,9,10,8,5
+The Menu,Mark Mylod,106min,2022,6,3,8,3,6,6,9,10,4,6,9,7,4,8,10,3,10,10,8,6
+M3GAN,Gerard Johnstone,102min ,2022,7,3,10,5,7,5,9,7,9,10,8,6,5,4,10,4,10,8,10,7
+Viking Wolf,Stig Svendse,97min,2023,9,3,3,10,4,7,6,8,9,8,3,5,3,5,7,7,10,3,7,3
+Infinity Pool,Brandon Cronenberg,117min,2023,9,10,4,5,4,7,4,4,6,9,7,10,7,3,10,3,7,3,6,4
+Scream VI,Matt Bettinell I-Olpin,123min,2022,7,8,10,3,4,7,8,7,6,4,5,9,9,10,7,8,10,4,8,4
+The Pale Blue Eye,Scott Cooper,128min,2022,7,4,8,7,8,4,9,5,6,7,8,6,7,8,10,6,5,7,9,8
+X,Ti West,105min,2023,3,7,4,7,7,9,7,10,10,10,4,5,6,3,10,10,10,10,8,7
+Winnie the Pooh: Blood and Honey,Rhys Frake-Waterfield,84min,2022,7,3,10,3,6,7,9,10,4,6,4,6,8,7,4,10,9,3,6,7
+Blood,Brad Anderson,108min,2022,5,5,5,4,10,9,9,8,9,5,3,9,3,10,9,5,6,3,6,8
+Skinamarink, Kyle Edward Ball,100min,2022,8,7,4,10,9,5,3,4,4,10,3,5,8,8,8,7,6,3,8,3
+Barbarian,Zack Cregger,102min ,2022,4,9,3,10,4,10,5,10,10,4,10,6,9,8,4,9,6,8,7,9
+Pearl,Ti West,102min ,2022,8,3,10,6,5,4,10,4,10,3,5,4,8,8,3,8,9,5,3,4
+Smile,Parker Finn,115min,2022,4,7,8,9,3,6,6,7,10,3,6,5,10,5,8,7,4,7,10,4
+Nope,Jorden Peele,130min,2022,7,7,8,6,9,8,6,10,8,3,5,9,10,9,10,9,3,10,3,7
+Jeepers Creepers: Reborn,Timo Vuorensola,88min,2022,4,7,4,3,6,9,3,8,8,7,10,4,7,10,5,4,8,4,8,7
+Bones and All,Luca Guadag nino,131mn,2022,7,4,6,10,4,4,6,8,5,8,10,8,6,5,6,3,9,7,5,10
+Scream,Matt Bettinell I-Olpin,114mn,2022,7,6,3,7,5,8,4,5,8,8,7,7,7,9,6,4,9,4,10,5
+American Psycho,Mary Harron,102mn,2000,7,10,7,4,9,9,9,5,9,9,6,6,10,8,10,10,6,7,5,3
+Five Nights at Freddy's,Emma Tammi,110mn,2023,3,6,8,10,3,7,6,3,8,3,5,9,5,3,8,3,9,5,3,5
+Old,M. Night Shyama lan,108mn,2021,10,5,6,3,7,4,3,8,8,6,3,5,8,8,8,3,9,8,10,4
+Midsommar,Ari Aster,148mn,2019,7,5,3,7,8,8,7,4,9,8,9,10,6,9,5,5,10,10,3,10
+The Black Phone,Scott Derrickson,103mn,2021,9,3,9,9,5,3,7,3,4,8,4,4,5,4,8,3,4,9,7,3
+The Boogeyman,Rob Savage,98mn,2023,5,3,3,8,10,8,5,8,5,4,6,3,10,4,9,3,8,6,7,8
+Hereditary,Ari Aster,127mn,2018,4,5,10,7,9,8,4,7,4,9,6,9,8,9,10,9,4,3,4,10
+White Noise,Noah Baumbach,136mn,2022,5,10,3,10,7,7,8,4,3,3,9,4,9,6,8,10,7,7,3,10
+Venus,Jaume Balague ró,100mn,2022,7,5,8,5,7,6,9,6,10,7,5,4,7,10,4,9,9,5,8,7
+Terrifier 2,Damien Leone,138mn,2022,4,9,10,5,10,9,5,10,8,5,7,10,10,6,4,9,7,6,4,5
+Split,M. Night Shyama lan,117mn,2022,8,5,8,8,8,3,9,5,8,5,6,7,7,10,6,4,8,6,6,10
+Sick,John Hyams,83mn,2022,3,3,7,3,7,5,10,3,6,10,3,5,5,4,8,6,3,5,6,9
+Get Out,Jorden Peele,104mn,2017,7,9,5,7,3,7,3,10,6,8,7,3,3,8,7,9,7,8,9,6
+Scream,Wes Craven,111mn,1996,4,3,10,9,10,3,6,8,8,8,9,3,9,3,7,3,9,10,3,7
+Men,Alex Garland,100mn,2022,6,7,4,5,9,3,10,6,10,9,4,4,8,10,9,3,7,10,4,7
+Bodies Bodies Bodies,Halina Reijn,94mn,2022,4,4,9,9,8,7,4,5,9,4,5,10,5,9,3,3,4,4,5,9
+Doctor Strange in the Multiverse of Madness,Sam Raimi,126mn,2022,5,5,5,8,8,3,5,10,6,6,6,3,4,10,5,9,4,7,10,9
+Beast,Baltasar Kormákur,93mn,2022,6,4,7,5,3,8,3,5,8,3,7,7,6,8,3,5,5,10,3,9
+Alien,Ridley Scott,117mn,1979,6,7,4,5,5,7,4,4,10,5,6,6,9,6,9,3,4,8,6,5
+Evil Dead Rise,Lee Cronin,96mn,2023,5,6,10,5,4,4,3,9,10,10,7,3,7,4,9,10,10,4,10,4
+Prey,Dan Trachte,100mn,2022,8,7,8,6,8,7,6,6,3,9,8,8,10,3,8,6,10,10,7,8
+The Visit,M. Night Shyama lan,94mn,2015,9,5,5,8,7,6,5,7,3,6,6,4,3,6,3,10,7,6,8,9
+Last Night in Soho,Edgar Wright,116mn,2021,5,9,5,9,6,5,8,7,8,3,10,10,9,5,5,8,4,8,3,8
+The Cabin in the Woods,Drew Goddard,95mn,2012,3,5,10,9,3,4,3,9,4,8,4,9,4,10,9,3,8,7,5,7
+Bone Tomahawk,S. Craig Zahler,132mn,2015,9,6,10,7,9,10,3,5,3,5,9,6,10,3,5,7,3,10,6,7
+The Invitation,Karyn Kusama,100mn,2015,7,3,7,9,8,4,7,5,9,9,3,9,9,4,10,5,3,8,5,7
+Creature from the Black Lagoon,Jack Arnold,79mn,1954,3,4,8,3,10,3,10,7,7,7,4,4,8,10,8,8,9,9,8,8
+From Dusk Till Dawn,Robert Rodriguez,108mn,1996,8,3,10,8,6,10,9,4,9,8,6,3,6,7,7,8,7,9,4,10
+The Shining,Stanley Kubrick,146mn,1980,6,10,4,10,10,3,7,5,3,5,8,7,8,8,5,6,9,10,4,4
+The Outwaters,Robbie Banfitch,100mn,2022,3,5,4,9,8,5,6,8,5,5,9,3,5,10,8,5,8,8,10,3
+A Quiet Place,John Krasinski,90mn,2018,3,6,8,6,4,6,9,5,3,4,5,9,7,7,3,4,7,9,9,5
+A Serbian Film,Srdan Spasojevic,104mn,2010,3,6,3,10,9,7,10,9,5,8,8,8,3,6,6,4,7,7,8,3
+It,Andy Muschietti,135mn,2017,10,8,6,3,8,6,10,3,8,9,3,8,9,6,10,5,7,8,8,3
+She Came from the Woods,Erik Bloomquist,101mn,2022,5,4,4,9,9,9,5,10,6,10,8,3,6,8,6,10,3,5,5,10
+The Meg 2: The Trench,Ben Wheatley,116mn,2023,9,8,4,8,6,5,7,7,8,8,9,9,8,4,6,6,7,5,9,8
+Tusk,Kevin smith,102mn,2014,10,9,7,5,8,3,4,4,5,3,6,8,5,6,6,10,5,3,7,10
+Orphan: First Kill,William brentbell,99mn,2022,4,9,8,8,4,8,9,6,6,9,10,4,9,7,10,3,9,6,10,3
+Crimes of the Future,David Croenbreg,107mn,2022,3,3,6,5,9,8,3,4,5,5,9,4,8,6,7,5,8,4,5,9
+Hidden,Matt Duffer,84mn,2015,8,4,7,7,7,5,7,5,9,3,6,7,8,3,4,5,7,6,9,7
+The Killing of a Sacred Deer,Yorgos Lanthimos,121mn,2017,10,10,7,9,6,7,4,8,10,3,7,8,7,8,6,5,4,5,8,8
+Glass,M. Night Shyama lan,129mn,2019,10,9,3,8,7,9,9,9,4,6,3,4,8,10,4,3,4,7,7,3
+Ready or Not,Matt Bettinell I-Olpin,95mn,2019,5,9,4,10,7,5,7,9,3,4,8,8,8,7,5,4,3,7,3,6
+The VVitch: A New-England Folktale,Robert Eggers,92mn,2015,3,10,7,4,9,8,8,9,4,3,5,10,4,5,9,10,4,7,4,5
+Come Play,Jacob Chase,96mn,2020,5,8,5,6,8,4,7,7,6,5,9,7,8,10,8,5,6,4,9,6
+Speak No Evil,Christian Tafdrup,97mn,2022,4,7,7,8,9,6,6,8,4,10,8,9,10,9,3,5,3,3,5,4
+Us,Jorden Peele,116mn,2019,7,7,6,3,3,9,8,9,4,9,8,6,6,3,7,7,6,5,3,8
+Candy Land,John Swab,93mn,2022,5,8,9,9,3,4,10,6,6,6,9,6,3,10,10,9,6,9,4,6
+Watcher,Chloe Okuno,96mn,2022,3,4,9,10,10,4,7,6,7,6,5,7,6,5,9,8,6,9,5,5
+Under the Skin,Jonatha  Glazer,108mn,2013,5,6,4,9,10,7,7,4,10,10,3,6,6,5,9,10,8,10,9,10
+There's Something Wrong with the Children,Roxanne Benjamin,92mn,2023,9,9,3,8,10,5,10,6,3,9,6,8,7,8,8,6,7,8,8,9
+I Know What You Did Last Summer,Jim Gillespin,101mn,1997,7,10,3,10,8,3,3,8,6,5,10,10,7,5,3,7,9,9,3,10
+Float,Zac Locke,72mn,2022,5,8,8,9,3,8,8,9,9,10,6,5,4,9,7,4,5,3,5,6
+The Conjuring,James Wan,112mn,2013,4,5,9,5,10,3,4,4,7,4,4,5,10,8,8,5,10,4,7,4
+Morbius,Daniel Espinosa,104mn,2022,9,4,9,9,6,5,6,3,7,7,6,9,5,9,4,7,5,8,10,5
+28 Days Later,Danny boyle,113mn,2002,10,5,5,4,10,3,6,9,6,10,9,4,8,4,8,10,7,10,7,3
+The Lost Boys,Joel Schumacher,97mn,1987,8,5,6,8,8,5,8,4,6,3,7,7,3,10,5,9,10,7,9,9
+Jennifer's Body,Karyn Kusama,102mn,2009,4,9,4,9,10,7,6,7,7,9,4,9,6,5,5,8,7,6,3,4
+Scream 4,Wes Craven,111mn,2011,7,5,6,4,7,10,6,9,8,6,3,5,9,3,5,5,3,5,5,7
+Knock Knock,Eli Roth,99mn,2015,10,5,7,8,9,9,4,7,10,7,7,8,7,4,8,4,4,8,6,3
+Suspiria,Dario Argento,98mn,1977,9,6,3,5,8,9,8,3,4,7,7,9,7,6,5,3,5,10,7,5
+The Offering,Oliver Park,93mn,2022,3,8,8,9,9,10,6,5,5,7,3,10,9,10,3,5,6,8,5,4
+Hellraiser (2022),David Bruckner,121 minutes,2022,10,9,6,9,7,5,10,6,4,8,7,3,6,10,4,7,3,10,5,8
+The Exorcist: Believer,David Gordon Green,111 minutes,2023,10,4,5,5,10,4,10,5,8,9,9,6,6,3,8,5,9,8,5,9
+Saw X,Kevin Greutert,118 minutes,2023,5,3,9,10,7,9,9,10,4,3,10,5,6,4,5,3,5,6,5,7
+Malignant,James Wan,111 minutes,2021,6,9,3,4,10,5,6,8,9,7,3,6,3,4,3,9,9,7,7,5
+Halloween Ends,David Gordon Green,111 minutes,2022,3,4,7,8,5,9,4,7,8,9,3,6,7,9,8,7,7,7,7,8
+The Night House,David Bruckner,108 minutes,2020,7,6,6,5,5,7,9,9,6,9,7,4,6,4,7,10,6,5,8,8
+The Empty Man,David Prior,137 minutes,2020,4,4,6,6,8,10,4,3,10,7,7,10,4,4,8,9,10,7,5,8
+Talk to Me,Danny Philippou,95 minutes,2023,6,5,10,7,7,3,3,6,8,7,6,5,10,10,9,9,9,3,3,6
+The Deep House,Alexandre Bustillo,85 minutes,2021,4,6,7,6,3,4,4,10,7,3,7,4,7,4,5,8,6,10,5,5
+Saint Maud,Rose Glass,88 minutes,2020,3,4,4,6,10,3,6,3,3,10,7,7,7,3,3,4,9,4,7,6
+The Rental,Dave Franco,88 minutes,2014,8,8,10,3,10,6,10,8,10,6,9,4,7,8,5,5,7,10,8,9
+Resurrection,Andrew Semans,101 minutes,2008,7,3,4,9,5,4,5,4,4,6,10,3,3,9,9,10,6,7,5,6
+Cobweb,Samuel Bodin,105 minutes,2008,9,7,9,4,10,10,5,7,6,6,4,3,3,5,5,9,7,3,6,6
+The Boy,William Brent Bell,95 minutes,2008,6,10,6,8,9,9,7,10,8,10,10,5,3,10,4,4,4,9,3,9
+The Babadook,Jennifer Kent,91 minutes,2022,8,7,6,3,3,9,5,10,7,4,3,9,6,4,3,10,6,9,9,3
+The Strangers,Bryan Bertino,80 minutes,2015,5,6,4,3,9,10,5,9,6,10,3,9,7,6,5,5,6,8,5,5
+Dark Harvest,David Slade,92 minutes,2022,6,3,7,9,5,4,9,7,4,7,3,4,8,9,10,5,3,5,9,6
+Lights Out,David F. Sandberg,102 minutes,2023,5,4,6,4,4,10,10,4,5,5,8,7,5,6,4,8,7,4,7,8
+Sinister,Scott Derrickson,100 minutes,2022,10,6,7,10,4,10,9,5,5,4,4,3,8,7,7,6,7,5,5,10
+Insidious,James Wan,96 minutes,2021,7,10,4,8,8,9,6,3,6,3,5,3,8,6,5,4,4,4,8,5
+Insidious: The Red Door,Patrick Wilson,119 minutes,2015,10,9,7,10,6,5,8,10,7,6,5,4,4,10,10,6,10,6,4,9
+The Nun,Corin Hardy,106 minutes,2017,9,6,4,6,6,6,8,8,6,6,8,6,6,3,10,3,3,10,7,7
+The Nun II,Michael Chaves,96 minutes,2018,6,3,4,8,7,4,9,6,6,3,6,4,6,8,10,9,7,9,9,7
+Verónica,Paco Plaza,85 minutes,2022,4,4,4,8,10,5,8,4,5,10,6,7,7,9,7,8,6,4,10,6
+Eli,Ciarán Foy,98 minutes,2022,10,3,10,6,5,8,4,4,3,3,7,7,6,10,10,7,9,6,10,8
+Hellbender,John Adams,89 minutes,2017,3,10,10,7,8,7,3,6,5,10,3,4,5,6,4,6,8,3,3,7
+We’re All Going to the World’s Fair,Jane Schoenbrun,88 minutes,2022,3,8,9,3,10,6,7,9,4,10,3,7,4,4,3,8,3,4,3,8
+Slender Man,Sylvain White,95 minutes,2023,8,5,5,5,4,7,8,9,4,6,8,9,7,6,4,6,5,6,10,5
+The Possession,Ole Bornedal,92 minutes,2023,10,4,3,8,7,10,6,4,6,5,8,8,7,9,9,6,5,6,8,4
+The Autopsy of Jane Doe,André Øvredal,98 minutes,2023,9,7,4,3,3,7,10,5,7,4,7,8,9,4,3,7,9,4,7,10
+The Forest,Jason Zada,100 minutes,2014,7,7,7,10,3,3,10,10,3,6,9,9,5,4,6,5,10,4,10,10
+The Devil’s Candy,Sean Byrne,110 minutes,2021,7,6,9,5,5,8,7,5,10,5,7,7,8,5,10,8,8,6,5,3
+Drag Me to Hell,Sam Raimi,95 minutes,2011,5,10,6,6,5,7,4,8,10,7,10,7,6,4,7,7,5,5,3,7
+The Lodge,Severin Fiala,90 minutes,2022,10,10,4,5,5,8,10,4,7,4,6,3,6,4,10,3,5,7,8,4
+Antlers,Scott Cooper,105 minutes,2019,9,6,4,6,3,7,3,3,8,10,4,7,7,9,5,9,8,8,6,5
+The Ritual,David Bruckner,105 minutes,2021,7,5,8,3,4,3,7,9,8,3,7,7,10,3,6,6,4,5,6,5
+The Wailing,Na Hong-jin,110 minutes,2014,3,5,8,4,5,4,5,5,4,5,8,5,5,4,9,5,3,4,6,8
+Train to Busan,Yeon Sang-ho,103 minutes,2016,4,3,10,6,6,10,5,9,8,10,9,6,10,7,6,10,3,7,10,9
+The Sadness,Rob Jabbaz,94 minutes,2017,8,5,9,9,6,4,5,5,8,9,3,5,7,5,5,6,8,3,3,5
+REC,"Jaume Balagueró, Paco Plaza",88 minutes,2016,8,10,10,10,5,8,6,4,7,7,3,8,4,7,10,10,9,10,7,5
+Quarantine,John Erick Dowdle,97 minutes,2020,4,7,5,9,6,3,3,7,7,7,3,10,10,8,9,5,10,10,9,9
+Dead Silence,James Wan,92 minutes,2020,5,6,6,9,9,5,7,7,8,8,5,8,10,7,10,8,3,3,10,6
+The Others,Alejandro Amenábar,103 minutes,2014,8,10,4,10,7,5,6,3,7,3,8,10,4,8,7,5,8,7,6,10
+Let the Right One In,Tomas Alfredson,98 minutes,2021,8,8,4,8,7,5,9,5,6,3,9,6,6,6,9,5,10,10,9,8
+Let Me In,Matt Reeves,85 minutes,2015,7,10,4,6,3,6,10,4,10,5,8,4,5,6,5,6,9,9,4,3
+It Follows,David Robert Mitchell,120 minutes,2014,10,5,3,4,10,6,8,3,6,8,10,5,8,9,10,3,6,4,5,10
+Creep,Patrick Brice,112 minutes,2014,8,3,10,9,3,10,10,9,9,6,7,4,4,7,3,8,5,7,6,3
+Creep 2,Patrick Brice,110 minutes,2020,9,3,3,5,9,9,3,9,10,8,6,3,8,5,6,7,7,5,3,9
+The House of the Devil,Ti West,95 min,2016,4,6,8,7,3,7,4,7,10,5,3,8,3,7,6,7,10,10,3,3

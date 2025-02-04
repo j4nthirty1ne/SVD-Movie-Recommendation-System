@@ -7,8 +7,7 @@ Infiesto,Patxi Amezcua,96 min,2023,5,9,9,3,5,4,3,6,3,8,3,5,3,8,3,8,7,10,3,3
 The Batman,Matt Reeves,176 min,2022,4,4,3,8,10,5,9,8,7,6,7,9,7,3,10,5,5,10,3,6
 The Godfather,Francis Ford Coppola,175 min,1972,3,10,8,6,8,8,7,7,9,5,7,3,4,7,9,6,9,6,10,7
 Knives Out,Rian Johnson,130 min,2019,5,7,4,9,8,3,7,8,5,4,8,4,4,7,6,3,7,10,6,4
-Vadh,"Jaspal Singh Sandhu, 
-Rajeev Barnwal",110 min,2022,9,9,3,4,3,6,8,8,10,9,8,6,4,9,3,3,10,4,8,4
+Vadh,Jaspal Singh Sandhu,110 min,2022,9,9,3,4,3,6,8,8,10,9,8,6,4,9,3,3,10,4,8,4
 The Wolf of Wall Street,Martin Scorsese,180 min,2013,6,4,10,8,3,8,8,3,6,5,3,8,9,10,9,6,6,8,4,4
 The Unbearable Weight of Massive Talent,Tom Gormican,107 min,2022,3,8,8,9,7,6,6,3,6,10,9,10,7,7,9,9,4,5,8,10
 Pulp Fiction,Quentin Tarantino,154 min,1994,9,10,9,6,5,10,7,3,7,6,5,6,3,7,5,5,4,9,8,10
@@ -21,22 +20,18 @@ Little Dixie,John Swab,105 min,2023,7,4,3,6,5,3,5,3,6,7,7,6,6,10,7,7,5,5,10,8
 An Action Hero,Anirudh Iyer,130 min,2022,7,10,9,9,9,6,9,5,4,3,6,6,4,7,3,6,3,4,3,7
 Killers of the Flower Moon,Martin Scorsese,206min,2023,5,4,4,3,10,6,3,6,7,9,9,4,6,5,9,6,8,4,5,3
 Luther: The Fallen Sun,Jamie Payne,129 min,2023,4,3,8,4,10,9,6,3,7,4,9,4,6,7,3,3,4,10,9,3
-John Wick,"Chad Stahelski, 
-David Leitch",101 min,2014,10,10,8,8,9,5,9,9,4,8,5,9,4,6,5,8,4,4,9,6
+John Wick,Chad Stahelski,101 min,2014,10,10,8,8,9,5,9,9,4,8,5,9,4,6,5,8,4,4,9,6
 The Gentlemen,Guy Ritchie,113 min,2019,8,10,3,6,5,3,7,6,4,7,6,4,9,5,7,4,9,9,6,7
 F9: The Fast Saga,Justin Lin,143 min,2021,5,6,3,9,7,7,7,4,4,4,8,5,8,7,5,10,10,5,9,5
 Violent Night,Tommy Wirkola,112 min,2022,8,8,9,3,6,6,5,6,4,3,6,6,5,10,5,7,8,4,3,9
 Nobody,Ilya Naishuller,92 min,2021,6,10,10,10,10,5,3,5,7,7,5,8,7,5,8,3,7,4,7,7
 Prisoners,Denis Villeneuve,153 min,2013,5,8,3,3,9,7,10,9,7,5,6,3,6,9,4,10,8,4,9,5
 Catch Me If You Can,Steven Spielberg,141 min,2002,5,4,5,3,8,7,9,7,3,8,7,9,8,3,10,6,7,8,6,10
-Minions: The Rise of Gru,"Kyle Balda, 
-Brad Ableson, 
-Jonathan del Val",87 min,2022,9,10,3,4,3,10,7,3,3,10,9,8,4,7,8,7,6,10,10,4
+Minions: The Rise of Gru,Kyle Balda,87 min,2022,9,10,3,4,3,10,7,3,3,10,9,8,4,7,8,7,6,10,10,4
 Joker,Todd Phillips,122 min,2019,5,8,6,4,10,10,7,4,3,3,8,6,10,6,4,10,7,6,9,4
 The Fast and the Furious,Rob Cohen,106 min,2001,5,5,4,4,10,7,5,9,10,3,8,6,5,7,8,6,6,3,7,6
 In Bruges,Martin McDonagh,107 min,2008,4,6,5,10,7,4,3,4,6,6,8,7,7,5,8,4,4,5,10,4
-No Country for Old Men,"Ethan Coen, 
-Joel Coen",122 min,2007,9,10,10,4,6,7,3,10,10,8,3,10,9,7,3,8,5,3,9,6
+No Country for Old Men,Ethan Coen,122 min,2007,9,10,10,4,6,7,3,10,10,8,3,10,9,7,3,8,5,3,9,6
 Emily the Criminal,John Patton Ford,97 min,2022,3,4,7,7,9,4,9,10,8,9,10,7,7,7,3,7,7,3,3,6
 Taxi Driver,Martin Scorsese,114 min,1976,8,3,7,9,7,4,9,4,6,5,9,8,10,3,7,10,9,3,6,3
 Goodfellas,Martin Scorsese,145 min,1990,10,7,10,8,10,5,7,4,3,3,3,9,3,6,4,9,7,4,7,3
@@ -80,8 +75,56 @@ Wrath of Man,Guy Ritchie,119 min,2021,3,8,6,10,8,7,3,6,10,6,3,4,6,5,4,8,7,9,9,3
 Reservoir Dogs,Quentin Tarantino,99 min,1992,8,7,3,7,6,10,5,8,8,5,4,7,10,9,4,5,10,4,7,8
 Mystic River,Clint Eastwood,138 min,2003,7,8,6,4,3,8,5,4,5,7,7,8,3,9,6,5,9,4,7,3
 Enola Holmes 2,Harry Bradbeer,129 min,2022,9,5,10,9,9,4,10,10,6,8,9,9,5,6,8,5,5,6,4,4
-The Big Lebowski,"Joel Coen, 
-Ethan Coen",117 min,1998,9,9,6,8,9,6,10,6,6,9,8,9,8,4,4,7,7,10,3,3
+The Big Lebowski,Joel Coen,117 min,1998,9,9,6,8,9,6,10,6,6,9,8,9,8,4,4,7,7,10,3,3
 Marlowe,Neil Jordan,110 min,2022,8,6,9,10,10,7,4,9,8,4,7,4,9,4,6,7,6,5,6,7
 Snatch,Guy Ritchie,102 min,2000,4,3,5,3,4,8,7,5,8,4,9,8,8,9,8,6,8,9,3,3
 Hell or High Water,David Mackenzie ,102min,2016,8,4,6,10,4,7,4,5,5,10,8,10,9,5,10,6,8,4,8,6
+Once Upon a Time in America,Sergio Leone,229 min,1984,7,7,6,6,3,5,5,5,5,9,5,9,6,10,5,5,10,8,3,3
+American History X,Tony Kaye,119 min,1998,8,9,7,5,5,8,3,5,5,5,8,5,8,3,3,9,8,6,5,4
+American Hustle,David O. Russell,138 min,2013,6,5,5,9,4,5,7,5,4,7,4,8,6,9,3,10,6,10,7,9
+Enough,Michael Apted,115 min,2002,7,4,5,6,7,5,4,7,4,4,10,7,8,7,10,8,4,10,3,8
+Orphan: First Kill,William Brent Bell,99 min,2022,7,10,8,4,10,5,10,9,10,9,10,6,4,7,6,10,5,4,6,4
+Heavenly Creatures,Peter Jackson,99 min,1994,4,9,6,3,9,7,5,6,6,10,9,5,10,6,6,5,10,9,9,6
+Road to Perdition,Sam Mendes,117 min,2002,10,4,5,9,5,4,3,10,7,7,9,3,8,8,7,10,9,7,9,5
+"Argentina, 1985",Santiago Mitre,140 min,2022,6,10,6,4,6,10,5,3,8,7,7,6,6,3,5,5,7,9,10,7
+Clue,Jonathan Lynn,94 min,1985,4,6,6,6,7,8,4,7,3,10,4,4,3,8,4,7,7,9,7,4
+Baby Driver,Edgar Wright,113 min,2017,4,6,5,3,6,9,7,10,10,6,6,10,8,6,4,9,9,4,6,4
+Ambulance,Michael Bay,136 min,2022,10,3,3,6,3,7,3,4,3,8,10,4,5,7,5,4,10,9,8,7
+Joker: Folie à Deux,Todd Phillips,138min,2024,8,4,5,8,3,10,4,7,10,9,4,8,8,9,8,9,9,7,10,6
+City of God,Fernando Meirelles,130 min,2002,5,4,10,7,7,3,10,5,7,4,7,9,4,5,3,3,9,8,4,9
+The Hateful Eight,Quentin Tarantino,168 min,2015,8,7,10,4,6,3,4,4,10,8,9,3,8,8,8,5,7,10,6,8
+House of Gucci,Ridley Scott,158 min,2021,4,4,10,9,6,3,10,5,7,8,9,8,7,5,6,6,5,7,10,3
+Batman Begins,Christopher Nolan,140 min,2005,3,6,3,4,6,10,5,6,6,8,5,10,10,10,10,7,10,8,4,3
+The Equalizer,Antoine Fuqua,132 min,2014,3,9,6,6,4,8,8,7,6,10,7,4,5,5,6,9,5,7,10,3
+Wind River,Taylor Sheridan,107 min,2017,7,5,4,6,10,8,4,9,9,9,10,8,4,9,3,9,6,8,7,4
+Nightmare Alley,Guillermo del Toro,150 min,2021,3,5,3,8,9,5,8,8,7,7,6,4,9,7,9,8,4,8,3,6
+Lou,Anna Foerster,107 min,2022,8,6,9,9,7,8,5,6,4,5,9,10,10,8,4,4,3,8,3,9
+Above Suspicion,Phillip Noyce,104 min,2019,6,5,8,10,4,7,10,6,4,6,10,4,4,5,9,7,9,4,9,10
+The Longest Yard,Peter Segal,113 min,2005,4,10,9,8,3,6,3,6,9,10,3,10,8,9,6,5,9,7,4,6
+RoboCop,Paul Verhoeven,102 min,1987,9,7,3,4,7,6,3,7,3,8,10,3,8,3,7,4,7,6,7,3
+21 Jump Street,Phil Lord,109 min,2012,8,5,5,5,10,3,3,6,8,9,3,3,6,8,8,7,5,9,9,9
+Kill Bill: Vol. 1,Quentin Tarantino,111 min,2003,3,9,8,7,3,8,10,7,5,3,10,9,5,9,6,9,3,9,10,10
+Murder on the Orient Express,Kenneth Branagh,114 min,2017,4,10,6,6,3,7,10,9,10,6,4,6,8,5,3,8,9,6,6,6
+Now You See Me,Louis Leterrier,115 min,2013,7,9,10,7,5,9,7,5,6,4,8,3,8,4,4,7,7,5,8,4
+Zootopia,Byron Howard,108 min,2016,3,10,5,4,9,10,5,10,9,3,7,3,9,6,3,4,8,7,6,8
+Casino,Martin Scorsese,178 min,1995,10,8,8,7,6,8,9,6,8,10,5,3,3,6,10,4,5,6,7,7
+True Romance,Tony Scott,119 min,1993,4,9,6,5,9,8,9,10,10,3,10,8,4,4,9,8,3,5,8,4
+Legend,Brian Helgeland,132 min,2015,3,10,7,8,9,4,9,4,10,9,4,6,6,5,6,6,5,4,8,6
+Holy Spider,Ali Abbasi,118 min,2022,8,6,8,4,3,3,9,6,5,5,4,4,9,6,4,4,5,3,10,9
+Hell or High Water,David Mackenzie,102 min,2016,5,7,6,5,9,8,7,10,4,8,5,9,8,10,3,3,10,5,7,4
+Bad Boys,Michael Bay,119 min,1995,6,9,7,7,3,3,3,10,7,8,5,7,7,8,10,7,3,3,7,5
+Karen,Coke Daniels,89 min,2021,9,5,8,5,9,10,3,6,10,8,4,9,6,8,5,9,5,10,6,5
+Nightcrawler,Dan Gilroy,117 min,2014,8,7,9,7,9,3,10,10,10,9,7,10,8,10,9,10,3,7,8,7
+Enola Holmes,Harry Bradbeer,123 min,2020,7,5,7,6,7,10,3,9,10,6,4,5,9,5,4,10,7,9,8,10
+Zodiac,David Fincher,157 min,2007,4,6,3,8,5,8,3,10,8,5,10,10,6,10,3,5,6,9,7,8
+Primal Fear,Gregory Hoblit,129 min,1996,9,6,3,6,4,10,6,6,10,6,7,5,9,5,6,5,8,5,8,6
+Thunderbolts,Jake Schreier,145min,2025,5,10,10,6,5,6,5,10,7,4,3,3,7,8,7,8,8,3,8,10
+My Cousin Vinny,Jonathan Lynn,120 min,1992,3,5,6,6,10,9,9,9,5,10,5,9,7,10,10,9,4,7,4,7
+Fargo,Joel Coen,98 min,1996,9,9,3,5,7,4,8,9,10,8,9,8,7,5,5,8,3,8,5,9
+Spotlight,Tom McCarthy,129 min,2015,7,6,8,3,5,3,6,9,4,9,9,9,4,4,10,6,4,7,10,8
+Knock Knock,Eli Roth,99 min,2015,9,3,4,7,7,4,3,7,9,7,9,5,4,10,9,3,9,6,4,4
+We're the Millers,Rawson Marshall Thurber,110 min,2013,10,7,3,6,6,4,9,9,3,8,5,4,9,4,4,6,7,3,7,6
+Furious 7,James Wan,137 min,2015,6,7,3,7,9,8,8,5,8,5,3,6,10,5,6,8,4,4,9,10
+Hangover Square,John Brahm,77 min,1945,4,6,10,9,7,10,9,5,6,7,9,7,5,4,9,3,6,4,10,4
+Minority Report,Steven Spielberg,145 min,2002,4,10,6,3,5,4,10,6,6,9,6,5,7,10,5,6,7,3,3,6
+Fast & Furious,Justin Lin,107 min,2009,6,5,7,7,5,6,7,4,5,10,10,7,9,7,5,9,6,9,4,4

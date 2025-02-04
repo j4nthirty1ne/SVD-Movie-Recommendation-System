@@ -1,81 +1,130 @@
 Movie,Director,Runtime,Release,User-1,User-2,User-3,User-4,User-5,User-6,User-7,User-8,User-9,User-10,User-11,User-12,User-13,User-14,User-15,User-16,User-17,User-18,User-19,User-20
-All Quiet on the Western Front,Edward Berger,148 min,2022,4,6,6,3,9,9,6,9,9,10,5,3,6,3,8,8,10,3,5,7
-Jojo Rabbit,Taika Waititi,108 min,2019,10,9,7,9,7,9,6,8,5,8,8,5,4,9,6,4,10,5,9,9
-Devotion,J.D. Dillard,139 min,2022,9,10,10,8,4,8,10,10,7,9,3,4,10,8,10,10,5,4,8,10
-Narvik: Hitler's First Defeat,Erik Skjoldbj�rg,108 min,2022,6,10,8,4,10,7,4,4,4,5,3,5,7,10,3,9,9,5,9,7
-The Expendables 4,Scott Waugh,103 min,2023,3,5,3,7,10,6,6,5,4,4,3,10,9,10,4,3,10,10,3,3
-Inglourious Basterds,Quentin Tarantino,153 min,2009,10,6,4,6,6,5,6,5,7,7,4,3,9,8,8,7,4,10,8,8
-Dunkirk,Christopher Nolan,106 min,2017,3,3,5,7,6,10,7,7,10,3,7,6,4,10,10,9,3,10,4,10
-Apocalypse Now,Francis Ford Coppola,147 min,1979,6,9,9,3,6,5,5,10,5,7,6,6,8,10,3,4,3,3,8,9
-Edge of Tomorrow,Doug Liman,113 min,2014,8,7,10,8,10,7,9,7,7,4,9,8,7,9,6,5,3,10,9,3
-Official Secrets,Sam Mendes,119 min,2019,7,3,10,10,3,10,3,6,8,8,9,5,10,6,9,10,3,10,9,9
-Hacksaw Ridge,Mel Gibson,139 min,2016,10,4,5,9,9,4,6,3,6,4,5,9,6,4,6,9,5,7,5,10
-The Hunger Games: The Ballad of Songbirds and Snakes,Francis Lawrence,157 min,2023,4,7,10,5,10,3,4,9,3,5,9,8,7,4,7,6,5,5,5,4
-Saving Private Ryan,Steven Spielberg,169 min,1998,5,9,9,7,6,10,3,3,8,4,9,5,5,4,3,9,10,5,7,9
-Brothers,Jim Sheridan,105 min,2009,5,9,8,5,8,4,7,7,5,5,5,8,9,6,10,7,6,3,10,8
-Medieval,Petr Jákl,125 min,2022,5,10,5,5,7,7,6,10,5,8,3,8,10,3,8,4,6,9,5,9
-Atonement,Joe Wright,123 min,2007,7,4,3,8,7,5,4,7,3,3,5,10,5,5,3,4,8,4,4,6
-Fury,David Ayer,134 min,2014,7,7,7,6,6,7,6,3,7,5,6,9,7,3,3,8,10,9,4,10
-Braveheart,Mel Gibson,178 min,1995,9,10,4,10,6,3,9,4,6,3,3,9,8,6,7,9,10,4,10,8
-Life Is Beautiful,Roberto Benigni,116 min,1997,4,10,8,8,6,9,9,6,6,10,8,3,6,5,8,8,6,4,4,9
-The Pianist,Roman Polanski,150 min,2002,5,3,9,3,4,10,3,5,9,9,3,3,6,5,10,7,8,7,8,6
-Operation Mincemeat,John Madden,128 min,2021,3,7,8,10,4,5,10,5,3,10,5,5,5,3,10,4,3,10,9,5
-Come and See,Elem Klimov,142 min,1985,10,9,7,6,9,9,10,7,10,7,5,7,9,10,10,3,8,7,7,6
-The King,David Michôd,140 min,2019,3,10,5,3,7,5,7,7,8,3,5,10,9,4,4,5,10,5,10,10
-The Imitation Game,Morten Tyldum,114 min,2014,3,10,7,8,7,5,10,6,5,8,7,9,8,3,10,9,6,9,9,4
-Casablanca,Michael Curtiz,102 min,1942,5,5,7,4,4,6,6,5,6,9,8,7,9,3,3,6,10,10,9,6
-Full Metal Jacket,Stanley Kubrick,116 min,1987,8,5,9,6,3,4,6,8,9,5,6,7,9,4,7,9,6,4,4,4
-Wonder Woman,Patty Jenkins,141 min,2017,7,7,8,10,3,3,4,9,7,7,4,6,9,9,6,9,10,7,3,8
-Kingdom of Heaven,Ridley Scott,144 min,2005,10,3,6,9,8,5,7,6,6,6,4,4,3,8,6,7,8,5,5,8
-Tropic Thunder,Ben Stiller,107 min,2008,6,9,3,6,10,6,7,7,10,10,8,4,7,5,9,4,10,10,5,8
-Malena,Giuseppe Tornatore,108 min,2000,7,3,5,7,6,3,5,5,6,8,8,10,8,4,6,6,9,3,9,7
-Red Dawn,John Milius,114 min,1984,3,3,3,4,10,7,7,3,7,10,8,10,8,6,4,7,10,9,9,4
-All Quiet on the Western Front,Lewis Milestone,152 min,1930,5,10,7,7,9,6,5,5,8,6,10,6,5,4,5,6,8,6,5,5
-Black Hawk Down,Ridley Scott,144 min,2001,4,10,3,5,5,3,4,4,3,9,3,3,5,6,4,4,10,6,6,8
-Pan's Labyrinth,Guillermo del Toro,118 min,2006,9,7,4,9,4,8,8,4,5,9,10,7,7,3,4,5,10,4,3,4
-Army of the Dead,Zack Snyder,148 min,2021,10,8,7,6,3,5,4,6,3,5,7,7,7,9,9,9,6,3,3,10
-The Forgotten Battle,Matthijs van Heijningen Jr.,124 min,2020,3,5,6,9,10,10,7,10,5,5,4,3,5,6,9,3,9,3,8,9
-Gone with the Wind,Victor Fleming,238 min,1939,9,10,8,10,6,4,10,7,6,7,5,8,10,10,8,4,5,5,9,8
-Pearl Harbor,Michael Bay,183 min,2001,7,4,7,3,9,5,8,10,9,7,6,10,8,5,5,7,4,3,4,10
-The Deer Hunter,Michael Cimino,183 min,1978,9,10,5,4,5,8,5,4,6,5,3,6,7,7,3,8,6,3,6,4
-13 Hours,Michael Bay,144 min,2016,5,10,10,5,6,5,9,9,8,8,3,4,3,8,8,8,6,3,9,3
-Platoon,Oliver Stone,120 min,1986,9,7,10,9,4,6,10,7,5,8,3,10,8,8,10,5,10,6,9,6
-Lawrence of Arabia,David Lean,218 min,1962,4,5,3,7,5,7,10,10,5,6,7,7,10,10,3,5,3,5,8,6
-Zero Dark Thirty,Kathryn Bigelow,157 min,2012,9,10,5,9,9,5,8,4,4,9,4,10,3,7,5,9,9,5,3,7
-The Last of the Mohicans,Michael Mann,112 min,1992,7,5,6,9,5,7,7,9,10,3,8,3,6,5,3,7,8,3,8,6
-Downfall,Oliver Hirschbiegel,156 min,2004,3,4,10,5,6,6,5,6,5,6,8,7,9,10,6,8,10,3,9,5
-The Boy in the Striped Pajamas,Mark Herman,94 min,2008,6,3,9,3,10,8,5,7,10,10,9,6,3,10,3,7,4,8,3,7
-The Hurt Locker,Kathryn Bigelow,131 min,2008,4,3,10,10,8,9,9,6,3,5,3,3,8,10,10,5,3,9,6,4
-The Thin Red Line,Terrence Malick,170 min,1998,9,5,3,4,10,10,6,5,5,8,6,7,9,6,3,10,4,5,6,7
-Grave of the Fireflies,Isao Takahata,89 min,1988,7,9,9,8,10,3,3,6,10,6,6,6,8,7,8,5,10,9,7,3
-Greyhound,Aaron Schneider,91 min,2020,6,9,9,4,9,6,7,10,9,6,4,10,8,4,3,3,8,9,9,7
-Lone Survivor,Peter Berg,121 min,2013,6,9,9,4,7,7,6,8,8,5,8,3,4,9,9,7,4,4,10,6
-The Post,Steven Spielberg,116 min,2017,8,7,7,10,7,10,9,7,3,10,3,5,6,8,8,8,7,10,10,4
-Unbroken,Angelina Jolie,137 min,2014,4,9,3,5,6,8,5,7,4,9,8,7,6,10,5,4,6,5,10,7
-Napoleon,Ridley Scott,158 min,2023,6,10,3,10,4,3,7,6,10,5,8,10,7,5,9,4,7,7,6,4
-The Greatest Beer Run Ever,Peter Farrelly,126 min,2022,5,5,4,7,10,10,9,3,8,10,8,3,7,9,7,9,9,3,3,5
-Mulan,Tony Bancroft,87 min,1998,9,7,3,10,4,8,7,6,9,7,10,7,3,6,8,5,4,4,5,3
-American Sniper,Clint Eastwood,133 min,2014,4,5,7,7,5,8,10,3,5,10,10,10,10,3,10,8,5,9,3,6
-Midway,Roland Emmerich,138 min,2019,5,6,8,8,6,8,10,6,4,9,3,8,7,5,3,8,8,10,10,6
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,95 min,1964,9,10,9,4,6,8,3,5,7,8,5,3,8,10,4,6,10,7,7,3
-Master and Commander: The Far Side of the World,Peter Weir,138 min,2003,3,7,4,9,7,3,9,10,5,6,5,3,10,9,6,10,9,7,4,10
-The Patriot,Roland Emmerich,165 min,2000,9,7,4,3,6,3,3,7,5,7,8,10,8,10,7,9,3,8,5,4
-The English Patient,Anthony Minghella,162 min,1996,10,6,6,4,4,10,7,10,8,7,7,3,9,7,3,9,7,7,3,10
-War Dogs,Todd Phillips,114 min,2016,3,4,5,7,3,3,9,8,5,10,6,3,4,3,9,8,6,6,5,10
-Legends of the Fall,Edward Zwick,133 min,1994,8,9,8,9,9,4,8,5,3,7,6,6,10,8,5,7,9,8,5,6
-Bridge of Spies,Steven Spielberg,142 min,2015,3,8,8,10,8,10,8,9,9,8,9,9,8,6,9,4,7,5,4,4
-Darkest Hour,Joe Wright,125 min,2017,5,10,5,10,5,4,10,7,6,7,4,4,5,10,7,10,6,8,4,4
-Lincoln,Steven Spielberg,150 min,2012,4,5,4,7,10,8,5,6,6,6,9,9,8,6,9,4,5,10,8,4
-Crimson Tide,Tony Scott,116 min,1995,7,7,4,3,5,4,4,10,9,10,8,7,10,4,5,3,9,7,7,9
-The Great Escape,John Sturges,172 min,1963,10,7,8,9,6,8,9,6,9,4,6,8,3,7,9,7,5,9,9,8
-Behind Enemy Lines,John Moore,106 min,2001,8,3,4,10,8,8,10,8,9,6,10,5,10,6,9,3,3,3,6,4
-Outlaw King,David Mackenzie,121 min,2018,3,4,7,4,8,5,4,9,10,4,6,8,3,5,8,10,10,6,3,7
-Stripes,Ivan Reitman,106 min,1981,9,9,5,8,10,3,10,9,10,3,9,3,5,3,6,10,10,10,3,7
-Defiance,Edward Zwick,137 min,2008,8,8,7,7,10,4,8,5,9,4,4,9,10,6,6,9,3,10,8,9
-Alexander,Oliver Stone,175 min,2004,5,10,6,9,3,5,3,5,4,9,10,4,3,6,6,8,8,10,6,9
-The Boat,Wolfgang Petersen,149 min,1981,9,4,5,10,9,8,6,7,9,7,3,6,6,6,5,4,7,8,9,6
-Doctor Zhivago,David Lean,197 min,1965,6,3,10,3,7,5,7,6,9,5,6,6,10,10,5,10,4,9,3,10
-12 Strong,Nicolai Fuglsig,130 min,2018,10,8,10,7,10,6,7,9,6,8,7,7,8,9,5,10,9,8,8,3
-The Courier,Dominic Cooke,112 min,2020,7,6,7,6,8,6,3,9,7,6,7,8,10,3,6,8,4,4,8,9
-Empire of the Sun,Steven Spielberg,153 min,1987,9,4,9,5,9,10,10,4,3,10,3,10,5,3,6,5,9,8,9,5
-Barry Lyndon,Stanley Kubrick,185 min,1975,6,10,3,3,9,3,9,7,8,10,3,4,8,4,10,6,10,3,3,9
+All Quiet on the Western Front,Edward Berger,148 min,2022,3,0,1,5,1,3,4,5,2,2,3,5,3,3,4,0,4,3,0,1
+Jojo Rabbit,Taika Waititi,108 min,2019,2,4,4,2,4,2,5,2,4,5,1,1,5,1,5,4,2,3,0,3
+Devotion,J.D. Dillard,139 min,2022,4,0,4,4,5,5,3,3,1,0,2,3,2,0,1,5,5,3,0,1
+Narvik: Hitler's First Defeat,Erik Skjoldbjærg,108 min,2022,1,4,5,5,2,3,3,1,5,1,3,1,3,0,2,0,2,2,0,5
+The Expendables 4,Scott Waugh,103 min,2023,3,1,1,4,3,2,5,4,5,2,3,5,2,0,4,2,1,2,1,1
+Inglourious Basterds,Quentin Tarantino,153 min,2009,0,1,4,0,3,2,1,4,4,0,0,5,3,3,0,5,5,0,4,5
+Dunkirk,Christopher Nolan,106 min,2017,5,0,3,5,3,2,0,2,2,3,1,0,0,2,4,4,3,2,2,2
+Apocalypse Now,Francis Ford Coppola,147 min,1979,2,2,5,3,0,1,5,1,3,5,5,1,0,3,3,4,0,5,3,2
+Edge of Tomorrow,Doug Liman,113 min,2014,5,0,4,1,5,2,3,2,4,0,3,4,3,0,2,2,4,5,3,5
+Official Secrets,Sam Mendes,119 min,2019,2,4,2,4,2,1,5,5,1,3,1,2,2,5,2,1,0,0,1,4
+Hacksaw Ridge,Mel Gibson,139 min,2016,0,5,4,0,2,3,4,0,3,3,5,3,0,2,4,5,4,2,1,1
+The Hunger Games: The Ballad of Songbirds and Snakes,Francis Lawrence,157 min,2023,4,1,0,5,3,4,5,5,0,0,4,0,4,4,5,0,1,3,3,3
+Saving Private Ryan,Steven Spielberg,169 min,1998,5,2,3,0,0,2,2,1,0,4,3,5,3,2,0,5,3,1,5,5
+Brothers,Jim Sheridan,105 min,2009,1,2,5,0,4,4,5,5,1,4,0,0,4,3,2,4,0,0,3,1
+Medieval,Petr Jákl,125 min,2022,1,0,3,0,1,1,5,1,3,3,4,5,1,2,3,0,1,4,2,4
+Atonement,Joe Wright,123 min,2007,0,2,4,0,3,1,4,0,0,5,3,3,4,1,2,0,0,3,5,2
+Fury,David Ayer,134 min,2014,2,5,4,0,4,3,4,4,3,1,4,5,3,1,4,1,1,2,1,4
+Braveheart,Mel Gibson,178 min,1995,5,3,3,3,3,4,5,3,4,3,5,1,2,3,4,3,0,2,3,4
+Life Is Beautiful,Roberto Benigni,116 min,1997,2,4,3,2,2,0,3,4,4,2,3,2,1,2,3,3,3,3,5,4
+The Pianist,Roman Polanski,150 min,2002,0,1,5,3,5,5,4,3,2,1,4,1,4,4,3,1,1,2,3,4
+Operation Mincemeat,John Madden,128 min,2021,4,1,4,0,3,5,1,2,3,2,5,1,0,1,2,5,0,1,1,3
+Come and See,Elem Klimov,142 min,1985,4,5,3,1,0,5,5,5,1,3,3,0,0,5,2,2,3,5,1,3
+The King,David Michôd,140 min,2019,1,2,5,3,5,1,0,1,2,4,3,2,5,3,3,1,3,5,3,2
+The Imitation Game,Morten Tyldum,114 min,2014,3,4,5,3,1,0,2,2,4,4,3,0,1,0,4,4,5,2,4,5
+Casablanca,Michael Curtiz,102 min,1942,5,0,2,2,4,0,1,3,2,3,1,4,3,0,1,4,5,2,5,4
+Full Metal Jacket,Stanley Kubrick,116 min,1987,0,0,4,1,1,5,4,0,0,2,5,1,3,0,2,0,4,5,4,1
+Wonder Woman,Patty Jenkins,141 min,2017,3,3,4,3,0,1,1,3,4,3,2,1,2,4,1,2,1,1,2,5
+Kingdom of Heaven,Ridley Scott,144 min,2005,3,4,1,2,1,1,4,0,3,2,3,1,0,0,5,3,2,3,0,0
+Tropic Thunder,Ben Stiller,107 min,2008,5,0,0,2,2,5,5,5,0,4,0,1,1,5,2,1,0,4,2,1
+Malena,Giuseppe Tornatore,108 min,2000,1,2,3,0,2,0,2,1,1,4,0,1,0,4,3,4,0,2,4,5
+Red Dawn,John Milius,114 min,1984,3,0,4,2,5,4,2,3,4,3,2,3,0,4,4,3,1,3,0,2
+All Quiet on the Western Front,Lewis Milestone,152 min,1930,1,0,2,5,4,5,5,1,0,3,3,4,0,4,5,5,5,4,1,3
+Black Hawk Down,Ridley Scott,144 min,2001,3,3,0,1,1,5,5,4,0,1,3,5,4,5,4,5,5,1,3,5
+Pan's Labyrinth,Guillermo del Toro,118 min,2006,1,4,3,0,5,3,2,5,4,3,4,2,3,0,0,5,0,0,4,5
+Army of the Dead,Zack Snyder,148 min,2021,3,2,3,5,0,1,2,1,1,1,2,0,1,4,0,1,5,4,2,5
+The Forgotten Battle,Matthijs van Heijningen Jr.,124 min,2020,4,4,5,5,5,0,3,4,5,5,2,2,3,1,5,2,3,1,5,5
+Gone with the Wind,Victor Fleming,238 min,1939,0,0,5,1,4,1,4,0,3,1,1,5,3,3,2,0,0,0,3,1
+Pearl Harbor,Michael Bay,183 min,2001,5,1,2,5,4,4,2,2,1,5,2,2,3,3,3,2,3,3,4,4
+The Deer Hunter,Michael Cimino,183 min,1978,2,0,2,4,4,1,3,2,2,0,4,0,5,0,1,2,3,3,5,1
+13 Hours,Michael Bay,144 min,2016,5,1,1,4,3,3,2,1,3,0,2,0,1,4,5,0,3,1,0,0
+Platoon,Oliver Stone,120 min,1986,0,4,0,4,1,1,5,5,4,3,2,1,3,0,4,0,2,1,2,5
+Lawrence of Arabia,David Lean,218 min,1962,5,3,4,0,1,1,4,4,2,2,1,4,3,2,1,1,2,4,2,5
+Zero Dark Thirty,Kathryn Bigelow,157 min,2012,4,1,4,1,4,5,2,4,5,4,0,3,0,0,2,3,3,5,0,0
+The Last of the Mohicans,Michael Mann,112 min,1992,5,4,3,1,4,4,2,0,3,2,1,5,5,2,1,2,2,1,5,5
+Downfall,Oliver Hirschbiegel,156 min,2004,1,0,2,1,1,2,5,2,1,4,1,5,4,5,3,3,2,1,4,4
+The Boy in the Striped Pajamas,Mark Herman,94 min,2008,3,3,1,3,2,1,1,1,4,4,1,1,3,1,1,0,5,4,5,0
+The Hurt Locker,Kathryn Bigelow,131 min,2008,1,2,5,2,0,0,0,2,1,2,5,4,0,1,4,1,1,1,1,1
+The Thin Red Line,Terrence Malick,170 min,1998,5,3,5,1,0,1,5,0,4,2,3,2,1,0,2,3,4,2,1,4
+Grave of the Fireflies,Isao Takahata,89 min,1988,0,0,1,3,4,2,3,1,4,3,3,2,0,0,2,2,2,4,5,4
+Greyhound,Aaron Schneider,91 min,2020,5,2,2,2,3,3,0,2,2,5,3,5,0,2,4,0,5,1,3,4
+Lone Survivor,Peter Berg,121 min,2013,3,0,0,4,2,2,2,4,4,5,0,4,3,5,4,4,4,2,4,4
+The Post,Steven Spielberg,116 min,2017,5,0,5,1,3,0,2,3,0,5,5,1,3,0,0,2,1,1,3,5
+Unbroken,Angelina Jolie,137 min,2014,4,5,5,2,1,4,1,2,5,1,4,5,4,4,1,0,5,5,5,1
+Napoleon,Ridley Scott,158 min,2023,3,0,3,1,4,1,4,4,1,3,1,1,3,1,5,5,1,4,4,4
+The Greatest Beer Run Ever,Peter Farrelly,126 min,2022,4,3,4,2,3,4,3,5,1,1,0,1,0,5,1,3,5,0,4,1
+Mulan,Tony Bancroft,87 min,1998,5,1,2,0,4,3,1,1,3,5,2,4,0,3,4,0,2,5,1,0
+American Sniper,Clint Eastwood,133 min,2014,4,1,5,0,5,5,4,1,0,5,3,0,4,2,1,3,0,1,1,4
+Midway,Roland Emmerich,138 min,2019,2,2,3,0,1,1,5,4,1,2,2,1,1,3,2,2,2,1,3,4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,95 min,1964,0,1,2,3,4,2,1,5,5,5,1,3,5,3,5,4,1,3,0,1
+Master and Commander: The Far Side of the World,Peter Weir,138 min,2003,5,0,0,0,3,2,0,0,4,3,2,4,1,1,5,2,3,5,0,1
+The Patriot,Roland Emmerich,165 min,2000,0,5,4,2,3,5,4,1,2,2,2,0,4,2,3,3,0,5,2,5
+The English Patient,Anthony Minghella,162 min,1996,4,3,2,5,0,1,4,4,3,0,4,3,1,4,5,2,1,5,1,0
+War Dogs,Todd Phillips,114 min,2016,4,5,0,0,4,3,1,3,0,4,3,3,4,3,4,0,0,0,1,2
+Legends of the Fall,Edward Zwick,133 min,1994,3,4,1,3,3,1,3,2,2,4,0,3,4,2,1,1,4,5,2,3
+Bridge of Spies,Steven Spielberg,142 min,2015,2,1,3,0,5,5,2,3,1,3,3,5,3,1,5,4,5,3,0,2
+Darkest Hour,Joe Wright,125 min,2017,0,0,3,5,2,2,4,3,5,4,5,1,0,2,3,0,4,0,3,0
+Lincoln,Steven Spielberg,150 min,2012,5,1,1,2,2,2,4,0,2,4,4,5,5,1,3,1,4,5,3,0
+Crimson Tide,Tony Scott,116 min,1995,5,4,0,0,4,2,4,3,2,4,1,1,5,2,1,0,3,5,4,5
+The Great Escape,John Sturges,172 min,1963,2,2,5,4,2,1,5,4,1,0,4,4,2,1,5,5,1,0,0,0
+Behind Enemy Lines,John Moore,106 min,2001,3,0,3,2,3,5,2,3,0,4,5,0,3,3,3,5,0,4,5,5
+Outlaw King,David Mackenzie,121 min,2018,4,2,0,1,3,5,4,4,0,4,3,2,1,1,3,3,0,2,4,3
+Stripes,Ivan Reitman,106 min,1981,0,1,3,5,4,2,5,3,1,2,5,2,5,4,3,0,5,2,2,3
+Defiance,Edward Zwick,137 min,2008,2,1,5,5,1,4,4,0,0,0,2,5,0,5,0,4,3,5,5,4
+Alexander,Oliver Stone,175 min,2004,1,0,4,0,3,5,5,1,1,1,1,1,5,0,1,3,2,2,4,4
+The Boat,Wolfgang Petersen,149 min,1981,1,5,4,3,3,3,5,0,1,3,4,0,1,4,4,3,1,4,2,1
+Doctor Zhivago,David Lean,197 min,1965,0,0,2,2,0,5,1,1,0,3,4,3,0,0,5,1,0,1,1,2
+12 Strong,Nicolai Fuglsig,130 min,2018,0,5,5,5,0,2,3,3,1,1,0,4,5,2,5,0,4,3,0,2
+The Courier,Dominic Cooke,112 min,2020,0,4,4,4,2,3,1,5,4,0,5,0,3,0,0,2,4,5,2,2
+Empire of the Sun,Steven Spielberg,153 min,1987,5,1,0,3,3,1,4,5,4,0,0,4,3,5,5,5,3,2,4,2
+Barry Lyndon,Stanley Kubrick,185 min,1975,5,3,3,2,1,3,2,4,3,2,0,0,2,4,1,4,4,0,2,4
+Without Remorse,Stefano Sollima,109 min,2021,10,10,9,8,3,7,7,4,9,4,6,6,9,8,9,8,4,10,10,7
+The Bridge on the River Kwai,David Lean,161 min,1957,9,10,3,7,8,9,3,5,6,9,10,4,7,8,10,4,10,5,10,9
+Allied,Robert Zemeckis,124 min,2016,5,8,7,5,8,10,4,10,7,10,8,3,7,5,3,3,8,10,9,4
+Enemy at the Gates,Jean-Jacques Annaud,131 min,2001,10,7,5,5,5,8,6,6,7,9,10,6,3,9,5,6,3,9,7,5
+Stairway to Heaven,Michael Powell,104 min,1946,8,10,5,5,5,9,5,7,9,7,8,3,9,10,5,7,8,7,5,8
+Cold Mountain,Anthony Minghella,154 min,2003,5,6,6,9,8,7,3,5,8,3,9,5,3,4,6,8,7,3,9,8
+Sisu,Jalmari Helander,91 min,2022,5,8,3,8,8,5,8,3,3,3,6,6,4,6,5,8,4,7,3,7
+Skyggen i mit øje,Ole Bornedal,107 min,2021,5,3,4,3,9,7,3,10,10,8,6,9,10,5,7,10,4,3,9,10
+King Arthur,Antoine Fuqua,126 min,2004,5,10,5,4,9,3,6,10,7,3,10,10,9,4,4,10,8,4,10,3
+Valkyrie,Bryan Singer,121 min,2008,8,8,9,5,5,8,5,10,4,8,6,6,8,4,9,6,9,8,10,9
+The Sum of All Fears,Phil Alden Robinson,124 min,2002,10,10,9,9,8,10,6,8,5,4,3,9,8,8,3,3,8,5,8,7
+We Were Soldiers,Randall Wallace,138 min,2002,5,8,5,7,9,7,8,10,4,8,7,10,5,5,3,5,9,8,8,8
+Flags of Our Fathers,Clint Eastwood,135 min,2006,9,7,8,7,7,9,5,6,9,3,4,8,10,8,3,6,8,9,5,10
+"Lust, Caution",Ang Lee,157 min,2007,8,10,9,3,5,4,8,3,9,10,3,6,10,10,8,4,8,8,6,5
+The Alamo,John Wayne,162 min,1960,9,8,9,5,6,7,6,9,8,10,6,10,5,4,9,7,4,9,7,10
+The Survivor,Barry Levinson,129 min,2021,10,6,7,6,9,8,10,3,4,5,4,8,3,5,7,8,6,3,6,10
+The Guernsey Literary and Potato Peel Pie Society,Mike Newell,124 min,2018,9,9,9,7,3,7,4,6,5,4,10,4,3,10,9,3,6,10,7,10
+Little Women,George Cukor,115 min,1933,5,6,5,5,6,3,6,5,8,7,4,10,10,4,3,8,6,8,5,7
+Sand Castle,Fernando Coimbra,113 min,2017,3,4,10,10,5,9,4,4,5,6,7,10,3,9,9,5,8,8,5,4
+Spartacus,Stanley Kubrick,197 min,1960,6,6,5,10,10,6,4,8,7,8,10,10,3,10,4,9,3,6,6,3
+Jarhead,Sam Mendes,125 min,2005,4,9,4,6,4,9,6,8,7,10,7,7,3,5,10,4,7,8,8,6
+The Ministry of Ungentlemanly Warfare,Guy Ritchie,120 min,2024,6,3,10,4,5,3,10,10,4,9,8,5,9,7,10,3,4,3,4,6
+The Lucky One,Scott Hicks,101 min,2012,3,6,7,3,3,6,5,10,10,8,5,9,9,9,6,8,3,3,7,9
+M*A*S*H,Robert Altman,116 min,1970,8,3,8,10,10,9,3,10,3,8,7,9,9,9,6,10,3,3,3,8
+Glory,Edward Zwick,122 min,1989,10,5,4,5,4,7,5,8,6,5,9,5,5,6,8,8,8,8,8,4
+Tolkien,Dome Karukoski,112 min,2019,8,3,3,3,3,9,9,8,10,5,7,4,7,3,5,7,6,3,8,4
+Whiskey Tango Foxtrot,Glenn Ficarra,112 min,2016,5,9,10,9,9,10,6,7,10,3,5,6,10,8,5,8,8,9,7,10
+How I Live Now,Kevin Macdonald,101 min,2013,6,9,7,3,5,10,10,8,9,9,4,10,10,5,10,3,5,6,3,9
+Paths of Glory,Stanley Kubrick,88 min,1957,6,8,6,4,4,4,3,5,8,9,5,7,4,6,10,10,8,6,10,6
+Mudbound,Dee Rees,134 min,2017,10,8,7,7,9,3,7,3,9,10,5,7,9,3,9,10,7,6,6,7
+A Bridge Too Far,Richard Attenborough,175 min,1977,10,6,10,4,6,8,5,8,6,10,4,3,8,6,4,4,9,9,4,4
+Overlord,Julius Avery,110 min,2018,7,10,9,6,4,7,4,3,8,9,4,9,7,6,7,5,5,7,4,6
+The Outpost,Rod Lurie,123 min,2019,3,7,8,3,8,5,4,3,4,3,4,8,3,4,7,8,10,7,6,10
+Ran,Akira Kurosawa,162 min,1985,9,6,10,9,8,9,5,5,3,4,3,10,4,7,8,5,9,10,10,10
+Imperium,Daniel Ragussis,109 min,2016,6,7,8,9,7,4,5,6,6,4,8,9,9,8,9,10,4,3,10,10
+Green Street Hooligans,Lexi Alexander,109 min,2005,6,7,10,6,5,8,5,6,9,10,10,8,7,3,3,3,6,7,9,10
+Operation Finale,Chris Weitz,122 min,2018,6,8,7,6,10,5,3,8,10,10,9,5,6,4,8,10,4,6,6,7
+Gettysburg,Ron Maxwell,271 min,1993,5,7,4,7,10,10,9,6,5,10,8,9,10,10,3,3,3,3,6,3
+The Dirty Dozen,Robert Aldrich,150 min,1967,5,8,10,10,4,5,8,3,6,10,6,10,9,3,5,8,9,6,8,3
+Judgment at Nuremberg,Stanley Kramer,179 min,1961,7,7,3,10,3,10,9,3,7,8,5,10,9,10,6,5,3,5,6,3
+Seven Years in Tibet,Jean-Jacques Annaud,136 min,1997,9,7,6,10,4,6,6,9,3,5,3,4,4,3,3,7,4,5,7,7
+A Call to Spy,Lydia Dean Pilcher,123 min,2019,6,6,7,8,10,9,3,5,8,8,9,9,7,6,3,6,7,6,9,6
+Heartbreak Ridge,Clint Eastwood,130 min,1986,9,5,7,9,3,6,5,9,3,3,5,6,6,7,4,3,6,3,9,7
+Australia,Baz Luhrmann,165 min,2008,8,8,10,9,6,3,5,10,6,7,9,5,8,5,8,9,4,9,3,6
+The Men Who Stare at Goats,Grant Heslov,94 min,2009,9,7,4,3,7,8,7,7,9,4,7,5,4,3,4,8,10,3,9,10
+Official Secrets,Gavin Hood,112 min,2019,7,6,10,8,5,4,8,5,8,7,6,4,6,8,3,9,7,4,7,9
+Benediction,Terence Davies,137 min,2021,8,9,7,8,10,5,5,6,5,10,9,10,3,6,5,9,7,3,5,3
+Hotel Rwanda,Terry George,121 min,2004,3,6,5,9,6,5,9,8,5,9,9,8,3,6,9,5,9,10,9,4
+"Good Morning, Vietnam",Barry Levinson,121 min,1987,4,7,4,7,6,6,4,5,4,10,6,9,4,8,6,3,9,9,3,4

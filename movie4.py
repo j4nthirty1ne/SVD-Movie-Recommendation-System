@@ -2,11 +2,9 @@
 import pandas as pd
 import numpy as np
 import difflib
-from scipy.linalg import svd
-# import sys
+from scipy.linalg import svd # Perform matrix factorization for the recommendation engine.
 from tabulate import tabulate
 
-# Constants
 TOP_MOVIES_PER_GENRE = 3
 
 # Load movie data from database
@@ -117,25 +115,29 @@ def recommend_movies():
     file_name = f"{selected_genre}.csv"
 
     try:
+        # Load dataset (Replace 'movies.csv' with your actual file) and clean column names
         df = pd.read_csv(file_name, encoding="utf-8", encoding_errors="replace")
         df.columns = df.columns.str.lower().str.strip()
 
+        # Select only numeric columns for SVD and add movie column for reference
         df_numeric = df.select_dtypes(include=[np.number]).copy()
         df_numeric["movie"] = df["movie"]
 
         # Perform Singular Value Decomposition (SVD) for better recommendations
         U, s, Vt = svd(df_numeric.drop(columns=["movie"]), full_matrices=False)
-        S = np.diag(s)
-        reconstructed_matrix = np.dot(U, np.dot(S, Vt))
+        S = np.diag(s)  # Convert singular values into a diagonal matrix
+        reconstructed_matrix = np.dot(U, np.dot(S, Vt)) # Reconstruct the original matrix
 
+        # Convert back to a DataFrame
         reconstructed_df = pd.DataFrame(reconstructed_matrix, index=df_numeric.index, columns=df_numeric.columns[:-1])
 
-        # Get the top 5 recommended movies
+        # Compute average predicted ratings for each movie
         average_ratings = reconstructed_df.mean(axis=1)
-        recommended_movies = average_ratings.sort_values(ascending=False).head(5)
+        # Sort movies based on predicted ratings and get top 5
+        recommended_movies = average_ratings.sort_values(ascending=False).head(10)
 
         # Prepare table for display
-        print(f"\n🎥 **Top 5 Recommended {selected_genre} Movies:**")
+        print(f"\n🎥 **Top 10 Recommended {selected_genre} Movies:**")
         table_data = []
         for idx, movie_index in enumerate(recommended_movies.index, start=1):
             movie_name = df.iloc[movie_index]["movie"]
